@@ -119,6 +119,17 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!114 &906811212 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 279538278276459827, guid: b43ccf745016e144896d93ad804c8305, type: 3}
+  m_PrefabInstance: {fileID: 6619321012406453792}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6249e9c7f72c987418df1072607150f6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1019509689
 GameObject:
   m_ObjectHideFlags: 0
@@ -130,6 +141,7 @@ GameObject:
   - component: {fileID: 1019509690}
   - component: {fileID: 1019509692}
   - component: {fileID: 1019509691}
+  - component: {fileID: 1019509693}
   m_Layer: 5
   m_Name: Panel
   m_TagString: Untagged
@@ -194,6 +206,62 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1019509689}
   m_CullTransparentMesh: 1
+--- !u!114 &1019509693
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1019509689}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 3
+    m_WrapAround: 0
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_SelectedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_SelectedTrigger: Selected
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 1019509691}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 906811212}
+        m_TargetAssemblyTypeName: SceneSwitcher, Assembly-CSharp
+        m_MethodName: LoadScene
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Table Booking
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &1027345898
 GameObject:
   m_ObjectHideFlags: 0
@@ -615,6 +683,63 @@ MonoBehaviour:
   m_LightCookieSize: {x: 1, y: 1}
   m_LightCookieOffset: {x: 0, y: 0}
   m_SoftShadowQuality: 0
+--- !u!1001 &6619321012406453792
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 87732171661139185, guid: b43ccf745016e144896d93ad804c8305, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -8.725796
+      objectReference: {fileID: 0}
+    - target: {fileID: 87732171661139185, guid: b43ccf745016e144896d93ad804c8305, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2190.2566
+      objectReference: {fileID: 0}
+    - target: {fileID: 87732171661139185, guid: b43ccf745016e144896d93ad804c8305, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -15.997848
+      objectReference: {fileID: 0}
+    - target: {fileID: 87732171661139185, guid: b43ccf745016e144896d93ad804c8305, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 87732171661139185, guid: b43ccf745016e144896d93ad804c8305, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 87732171661139185, guid: b43ccf745016e144896d93ad804c8305, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 87732171661139185, guid: b43ccf745016e144896d93ad804c8305, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 87732171661139185, guid: b43ccf745016e144896d93ad804c8305, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 87732171661139185, guid: b43ccf745016e144896d93ad804c8305, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 87732171661139185, guid: b43ccf745016e144896d93ad804c8305, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7818816847628700368, guid: b43ccf745016e144896d93ad804c8305, type: 3}
+      propertyPath: m_Name
+      value: SceneSwitcher
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b43ccf745016e144896d93ad804c8305, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -623,3 +748,4 @@ SceneRoots:
   - {fileID: 1924616316}
   - {fileID: 1027345903}
   - {fileID: 1272953894}
+  - {fileID: 6619321012406453792}
