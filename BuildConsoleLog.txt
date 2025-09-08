@@ -1,0 +1,1020 @@
+[Log]  Build started...
+[Log] Saving build logs to: D:/AR_Menu/Assets\../BuildConsoleLog.txt
+[Warning] The following asset(s) located in immutable packages were unexpectedly altered. Making changes to immutable packages isn't recommended because the changes can be lost without any warning during Package Manager operations.
+  Packages/com.unity.xr.arcore/Tests/Editor/Assets/TestReferenceImageLibrary.asset
+
+Stack Trace:
+
+[Warning] The following asset(s) located in immutable packages were unexpectedly altered. Making changes to immutable packages isn't recommended because the changes can be lost without any warning during Package Manager operations.
+  Packages/com.unity.xr.arcore/Tests/Editor/Assets/TestReferenceImageLibrary.asset
+
+Stack Trace:
+
+[Warning] Compressed texture Icon-36 is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+Stack Trace:
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
+
+[Warning] Compressed texture Icon-48 is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+Stack Trace:
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
+
+[Warning] Compressed texture Icon-36 is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+Stack Trace:
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
+
+[Warning] Compressed texture Icon-48 is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+Stack Trace:
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
+
+[Warning] Compressed texture BackGround_x108 is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+Stack Trace:
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
+
+[Warning] Compressed texture ForeGround_x108 is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+Stack Trace:
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
+
+[Warning] Compressed texture BackGround_x216 is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+Stack Trace:
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
+
+[Warning] Compressed texture ForeGround_x216 is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+Stack Trace:
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
+
+[Warning] Compressed texture BackGround_x324 is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+Stack Trace:
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
+
+[Warning] Compressed texture ForeGround_x324 is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+Stack Trace:
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
+
+[Warning] Compressed texture ForeGround_x432 is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+Stack Trace:
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
+
+[Error] 
+> Configure project :unityLibrary
+Variant 'debug', will keep symbols in binaries for:
+  'libunity.so'
+  'libil2cpp.so'
+  'libmain.so'
+Variant 'release', symbols will be stripped from binaries.
+
+> Configure project :launcher
+Variant 'debug', will keep symbols in binaries for:
+  'libunity.so'
+  'libil2cpp.so'
+  'libmain.so'
+Variant 'release', symbols will be stripped from binaries.
+WARNING: We recommend using a newer Android Gradle plugin to use compileSdk = 36
+
+This Android Gradle plugin (8.7.2) was tested up to compileSdk = 35.
+
+You are strongly encouraged to update your project to use a newer
+Android Gradle plugin that has been tested with compileSdk = 36.
+
+If you are already using the latest version of the Android Gradle plugin,
+you may need to wait until a newer version with support for compileSdk = 36 is available.
+
+For more information refer to the compatibility table:
+https://d.android.com/r/tools/api-level-support
+
+To suppress this warning, add/update
+    android.suppressUnsupportedCompileSdk=36
+to this project's gradle.properties.
+Exception while marshalling C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\build-tools\34.0.0\package.xml. Probably the SDK is read-only
+Exception while marshalling C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\platform-tools\package.xml. Probably the SDK is read-only
+Exception while marshalling C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\platforms\android-34\package.xml. Probably the SDK is read-only
+Exception while marshalling C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\platforms\android-35\package.xml. Probably the SDK is read-only
+Exception while marshalling C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\platforms\android-36\package.xml. Probably the SDK is read-only
+Exception while marshalling C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\tools\package.xml. Probably the SDK is read-only
+Exception while marshalling C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\build-tools\34.0.0\package.xml. Probably the SDK is read-only
+Exception while marshalling C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\platform-tools\package.xml. Probably the SDK is read-only
+Exception while marshalling C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\platforms\android-34\package.xml. Probably the SDK is read-only
+Exception while marshalling C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\platforms\android-35\package.xml. Probably the SDK is read-only
+Exception while marshalling C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\platforms\android-36\package.xml. Probably the SDK is read-only
+Exception while marshalling C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\tools\package.xml. Probably the SDK is read-only
+
+> Task :unityLibrary:xrmanifest.androidlib:preBuild UP-TO-DATE
+> Task :unityLibrary:preBuild UP-TO-DATE
+> Task :unityLibrary:xrmanifest.androidlib:preReleaseBuild UP-TO-DATE
+> Task :unityLibrary:preReleaseBuild UP-TO-DATE
+> Task :launcher:preBuild UP-TO-DATE
+> Task :launcher:preReleaseBuild UP-TO-DATE
+> Task :unityLibrary:generateReleaseResValues
+> Task :launcher:generateReleaseResValues
+> Task :unityLibrary:xrmanifest.androidlib:generateReleaseResValues
+> Task :launcher:javaPreCompileRelease
+> Task :unityLibrary:writeReleaseAarMetadata
+> Task :unityLibrary:xrmanifest.androidlib:writeReleaseAarMetadata
+> Task :unityLibrary:xrmanifest.androidlib:generateReleaseResources
+> Task :unityLibrary:generateReleaseResources
+> Task :launcher:generateReleaseResources
+> Task :unityLibrary:xrmanifest.androidlib:packageReleaseResources
+> Task :unityLibrary:xrmanifest.androidlib:extractDeepLinksRelease
+> Task :unityLibrary:xrmanifest.androidlib:compileReleaseLibraryResources
+> Task :unityLibrary:packageReleaseResources
+> Task :unityLibrary:extractDeepLinksRelease
+> Task :unityLibrary:compileReleaseLibraryResources
+
+> Task :unityLibrary:xrmanifest.androidlib:processReleaseManifest
+package="com.UnityTechnologies.XR.Manifest" found in source AndroidManifest.xml: D:\AR_Menu\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml.
+Setting the namespace via the package attribute in the source AndroidManifest.xml is no longer supported, and the value is ignored.
+Recommendation: remove package="com.UnityTechnologies.XR.Manifest" from the source AndroidManifest.xml: D:\AR_Menu\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml.
+
+> Task :unityLibrary:processReleaseManifest
+> Task :unityLibrary:xrmanifest.androidlib:javaPreCompileRelease
+> Task :unityLibrary:javaPreCompileRelease
+> Task :unityLibrary:xrmanifest.androidlib:processReleaseJavaRes NO-SOURCE
+> Task :unityLibrary:processReleaseJavaRes
+> Task :unityLibrary:xrmanifest.androidlib:parseReleaseLocalResources
+> Task :unityLibrary:xrmanifest.androidlib:extractProguardFiles
+> Task :launcher:checkReleaseAarMetadata
+> Task :unityLibrary:extractProguardFiles
+> Task :unityLibrary:prepareLintJarForPublish
+> Task :unityLibrary:parseReleaseLocalResources
+> Task :unityLibrary:xrmanifest.androidlib:prepareLintJarForPublish
+> Task :launcher:mapReleaseSourceSetPaths
+> Task :unityLibrary:xrmanifest.androidlib:mergeReleaseJniLibFolders
+> Task :unityLibrary:xrmanifest.androidlib:mergeReleaseNativeLibs NO-SOURCE
+> Task :unityLibrary:xrmanifest.androidlib:stripReleaseDebugSymbols NO-SOURCE
+> Task :unityLibrary:xrmanifest.androidlib:extractDeepLinksForAarRelease
+> Task :unityLibrary:xrmanifest.androidlib:copyReleaseJniLibsProjectAndLocalJars
+> Task :unityLibrary:xrmanifest.androidlib:mergeReleaseShaders
+> Task :unityLibrary:xrmanifest.androidlib:compileReleaseShaders NO-SOURCE
+> Task :unityLibrary:xrmanifest.androidlib:generateReleaseAssets UP-TO-DATE
+> Task :unityLibrary:xrmanifest.androidlib:packageReleaseAssets
+> Task :unityLibrary:xrmanifest.androidlib:prepareReleaseArtProfile
+> Task :unityLibrary:xrmanifest.androidlib:generateReleaseRFile
+> Task :unityLibrary:xrmanifest.androidlib:writeReleaseLintModelMetadata
+> Task :unityLibrary:xrmanifest.androidlib:compileReleaseJavaWithJavac NO-SOURCE
+> Task :unityLibrary:xrmanifest.androidlib:bundleLibCompileToJarRelease
+> Task :unityLibrary:xrmanifest.androidlib:bundleLibRuntimeToJarRelease
+> Task :unityLibrary:xrmanifest.androidlib:mergeReleaseJavaResource
+> Task :unityLibrary:xrmanifest.androidlib:generateReleaseLintModel
+> Task :unityLibrary:xrmanifest.androidlib:createFullJarRelease
+> Task :unityLibrary:xrmanifest.androidlib:extractReleaseAnnotations
+> Task :unityLibrary:xrmanifest.androidlib:mergeReleaseGeneratedProguardFiles
+> Task :unityLibrary:xrmanifest.androidlib:mergeReleaseConsumerProguardFiles
+> Task :unityLibrary:xrmanifest.androidlib:syncReleaseLibJars
+> Task :launcher:packageReleaseResources
+> Task :launcher:createReleaseCompatibleScreenManifests
+> Task :launcher:parseReleaseLocalResources
+> Task :launcher:extractDeepLinksRelease
+> Task :unityLibrary:xrmanifest.androidlib:bundleReleaseLocalLintAar
+> Task :unityLibrary:xrmanifest.androidlib:generateReleaseLintVitalModel
+> Task :unityLibrary:xrmanifest.androidlib:bundleLibRuntimeToDirRelease
+> Task :unityLibrary:xrmanifest.androidlib:copyReleaseJniLibsProjectOnly
+
+> Task :launcher:processReleaseMainManifest
+[:arcore_client:] C:\Users\stump\.gradle\caches\8.11\transforms\0585d3b99c4ea2428956a2fa191bcb7c\transformed\jetified-arcore_client\AndroidManifest.xml Warning:
+	Namespace 'com.google.ar.core' is used in multiple modules and/or libraries: :arcore_client:, :unityandroidpermissions:. Please ensure that all modules and libraries have a unique namespace. For more information, See https://developer.android.com/studio/build/configure-app-module#set-namespace
+
+> Task :launcher:processReleaseManifest
+> Task :launcher:extractProguardFiles
+> Task :launcher:mergeReleaseNativeDebugMetadata NO-SOURCE
+> Task :unityLibrary:configureCMakeRelWithDebInfo[arm64-v8a]
+> Task :unityLibrary:generateReleaseRFile
+> Task :launcher:mergeReleaseResources
+> Task :launcher:mergeReleaseStartupProfile
+> Task :launcher:processReleaseManifestForPackage
+> Task :launcher:checkReleaseDuplicateClasses
+> Task :launcher:mergeReleaseShaders
+> Task :launcher:compileReleaseShaders NO-SOURCE
+> Task :launcher:generateReleaseAssets UP-TO-DATE
+> Task :launcher:extractReleaseVersionControlInfo
+> Task :launcher:processReleaseJavaRes NO-SOURCE
+> Task :launcher:collectReleaseDependencies
+> Task :launcher:sdkReleaseDependencyData
+> Task :launcher:mergeReleaseJniLibFolders
+> Task :launcher:validateSigningRelease
+> Task :launcher:writeReleaseAppMetadata
+> Task :launcher:writeReleaseSigningConfigVersions
+> Task :unityLibrary:xrmanifest.androidlib:lintVitalAnalyzeRelease
+> Task :unityLibrary:buildCMakeRelWithDebInfo[arm64-v8a]
+> Task :launcher:desugarReleaseFileDependencies
+> Task :launcher:processReleaseResources
+> Task :launcher:mergeReleaseJavaResource
+> Task :launcher:optimizeReleaseResources
+
+> Task :unityLibrary:compileReleaseJavaWithJavac
+
+> Task :launcher:mergeExtDexRelease
+> Task :unityLibrary:bundleLibCompileToJarRelease
+> Task :unityLibrary:bundleLibRuntimeToJarRelease
+> Task :launcher:compileReleaseJavaWithJavac NO-SOURCE
+> Task :unityLibrary:generateReleaseLintModel
+> Task :unityLibrary:createFullJarRelease
+> Task :launcher:dexBuilderRelease
+> Task :launcher:generateReleaseLintVitalReportModel
+> Task :launcher:mergeReleaseGlobalSynthetics
+
+> Task :unityLibrary:mergeReleaseJniLibFolders FAILED
+[Incubating] Problems report is available at: file:///D:/AR_Menu/Library/Bee/Android/Prj/IL2CPP/Gradle/build/reports/problems/problems-report.html
+86 actionable tasks: 86 executed
+
+Stack Trace:
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
+
+[Error] Note: D:\AR_Menu\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\java\com\unity3d\player\UnityPlayerGameActivity.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ERROR: Resource and asset merger: 1 exception was raised by workers:
+A failure occurred while executing com.android.build.gradle.internal.tasks.Workers$RunnableWrapperWorkAction
+
+    Cause 1: org.gradle.workers.internal.DefaultWorkerExecutor$WorkExecutionException: A failure occurred while executing com.android.build.gradle.internal.tasks.Workers$RunnableWrapperWorkAction
+    	at org.gradle.workers.internal.DefaultWorkerExecutor$WorkItemExecution.waitForCompletion(DefaultWorkerExecutor.java:287)
+    	at org.gradle.internal.work.DefaultAsyncWorkTracker.lambda$waitForItemsAndGatherFailures$2(DefaultAsyncWorkTracker.java:130)
+    	at org.gradle.internal.Factories$1.create(Factories.java:31)
+    	at org.gradle.internal.work.DefaultWorkerLeaseService.withoutLocks(DefaultWorkerLeaseService.java:335)
+    	at org.gradle.internal.work.DefaultWorkerLeaseService.withoutLocks(DefaultWorkerLeaseService.java:318)
+    	at org.gradle.internal.work.DefaultWorkerLeaseService.withoutLock(DefaultWorkerLeaseService.java:323)
+    	at org.gradle.internal.work.DefaultAsyncWorkTracker.waitForItemsAndGatherFailures(DefaultAsyncWorkTracker.java:126)
+    	at org.gradle.internal.work.DefaultAsyncWorkTracker.waitForItemsAndGatherFailures(DefaultAsyncWorkTracker.java:88)
+    	at org.gradle.internal.work.DefaultAsyncWorkTracker.waitForAll(DefaultAsyncWorkTracker.java:78)
+    	at org.gradle.internal.work.DefaultAsyncWorkTracker.waitForCompletion(DefaultAsyncWorkTracker.java:66)
+    	at org.gradle.workers.internal.DefaultWorkerExecutor.await(DefaultWorkerExecutor.java:203)
+    	at com.android.build.gradle.internal.tasks.Workers$WorkerExecutorAdapter.await(Workers.kt:109)
+    	at com.android.ide.common.resources.MergeWriter.end(MergeWriter.java:48)
+    	at com.android.ide.common.resources.DataMerger.mergeData(DataMerger.java:299)
+    	at com.android.ide.common.resources.AssetMerger.mergeData(AssetMerger.java:28)
+    	at com.android.build.gradle.tasks.MergeSourceSetFolders.doFullTaskAction(MergeSourceSetFolders.kt:160)
+    	at com.android.build.gradle.tasks.MergeSourceSetFolders.doTaskAction(MergeSourceSetFolders.kt:122)
+    	at com.android.build.gradle.internal.tasks.NewIncrementalTask$taskAction$$inlined$recordTaskAction$1.invoke(BaseTask.kt:82)
+    	at com.android.build.gradle.internal.tasks.Blocks.recordSpan(Blocks.java:51)
+    	at com.android.build.gradle.internal.tasks.NewIncrementalTask.taskAction(NewIncrementalTask.kt:46)
+    	at jdk.internal.reflect.GeneratedMethodAccessor91.invoke(Unknown Source)
+    	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+    	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+    	at org.gradle.internal.reflect.JavaMethod.invoke(JavaMethod.java:125)
+    	at org.gradle.api.internal.project.taskfactory.IncrementalTaskAction.doExecute(IncrementalTaskAction.java:45)
+    	at org.gradle.api.internal.project.taskfactory.StandardTaskAction.execute(StandardTaskAction.java:51)
+    	at org.gradle.api.internal.project.taskfactory.IncrementalTaskAction.execute(IncrementalTaskAction.java:26)
+    	at org.gradle.api.internal.project.taskfactory.StandardTaskAction.execute(StandardTaskAction.java:29)
+    	at org.gradle.api.internal.tasks.execution.TaskExecution$3.run(TaskExecution.java:244)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:29)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:26)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:66)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:59)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:166)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:59)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner.run(DefaultBuildOperationRunner.java:47)
+    	at org.gradle.api.internal.tasks.execution.TaskExecution.executeAction(TaskExecution.java:229)
+    	at org.gradle.api.internal.tasks.execution.TaskExecution.executeActions(TaskExecution.java:212)
+    	at org.gradle.api.internal.tasks.execution.TaskExecution.executeWithPreviousOutputFiles(TaskExecution.java:195)
+    	at org.gradle.api.internal.tasks.execution.TaskExecution.execute(TaskExecution.java:162)
+    	at org.gradle.internal.execution.steps.ExecuteStep.executeInternal(ExecuteStep.java:105)
+    	at org.gradle.internal.execution.steps.ExecuteStep.access$000(ExecuteStep.java:44)
+    	at org.gradle.internal.execution.steps.ExecuteStep$1.call(ExecuteStep.java:59)
+    	at org.gradle.internal.execution.steps.ExecuteStep$1.call(ExecuteStep.java:56)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:209)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:204)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:66)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:59)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:166)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:59)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:53)
+    	at org.gradle.internal.execution.steps.ExecuteStep.execute(ExecuteStep.java:56)
+    	at org.gradle.internal.execution.steps.ExecuteStep.execute(ExecuteStep.java:44)
+    	at org.gradle.internal.execution.steps.CancelExecutionStep.execute(CancelExecutionStep.java:42)
+    	at org.gradle.internal.execution.steps.TimeoutStep.executeWithoutTimeout(TimeoutStep.java:75)
+    	at org.gradle.internal.execution.steps.TimeoutStep.execute(TimeoutStep.java:55)
+    	at org.gradle.internal.execution.steps.PreCreateOutputParentsStep.execute(PreCreateOutputParentsStep.java:50)
+    	at org.gradle.internal.execution.steps.PreCreateOutputParentsStep.execute(PreCreateOutputParentsStep.java:28)
+    	at org.gradle.internal.execution.steps.RemovePreviousOutputsStep.execute(RemovePreviousOutputsStep.java:67)
+    	at org.gradle.internal.execution.steps.RemovePreviousOutputsStep.execute(RemovePreviousOutputsStep.java:37)
+    	at org.gradle.internal.execution.steps.BroadcastChangingOutputsStep.execute(BroadcastChangingOutputsStep.java:61)
+    	at org.gradle.internal.execution.steps.BroadcastChangingOutputsStep.execute(BroadcastChangingOutputsStep.java:26)
+    	at org.gradle.internal.execution.steps.CaptureOutputsAfterExecutionStep.execute(CaptureOutputsAfterExecutionStep.java:69)
+    	at org.gradle.internal.execution.steps.CaptureOutputsAfterExecutionStep.execute(CaptureOutputsAfterExecutionStep.java:46)
+    	at org.gradle.internal.execution.steps.ResolveInputChangesStep.execute(ResolveInputChangesStep.java:40)
+    	at org.gradle.internal.execution.steps.ResolveInputChangesStep.execute(ResolveInputChangesStep.java:29)
+    	at org.gradle.internal.execution.steps.BuildCacheStep.executeWithoutCache(BuildCacheStep.java:189)
+    	at org.gradle.internal.execution.steps.BuildCacheStep.lambda$execute$1(BuildCacheStep.java:75)
+    	at org.gradle.internal.Either$Right.fold(Either.java:175)
+    	at org.gradle.internal.execution.caching.CachingState.fold(CachingState.java:62)
+    	at org.gradle.internal.execution.steps.BuildCacheStep.execute(BuildCacheStep.java:73)
+    	at org.gradle.internal.execution.steps.BuildCacheStep.execute(BuildCacheStep.java:48)
+    	at org.gradle.internal.execution.steps.StoreExecutionStateStep.execute(StoreExecutionStateStep.java:46)
+    	at org.gradle.internal.execution.steps.StoreExecutionStateStep.execute(StoreExecutionStateStep.java:35)
+    	at org.gradle.internal.execution.steps.SkipUpToDateStep.executeBecause(SkipUpToDateStep.java:75)
+    	at org.gradle.internal.execution.steps.SkipUpToDateStep.lambda$execute$2(SkipUpToDateStep.java:53)
+    	at java.base/java.util.Optional.orElseGet(Optional.java:364)
+    	at org.gradle.internal.execution.steps.SkipUpToDateStep.execute(SkipUpToDateStep.java:53)
+    	at org.gradle.internal.execution.steps.SkipUpToDateStep.execute(SkipUpToDateStep.java:35)
+    	at org.gradle.internal.execution.steps.legacy.MarkSnapshottingInputsFinishedStep.execute(MarkSnapshottingInputsFinishedStep.java:37)
+    	at org.gradle.internal.execution.steps.legacy.MarkSnapshottingInputsFinishedStep.execute(MarkSnapshottingInputsFinishedStep.java:27)
+    	at org.gradle.internal.execution.steps.ResolveIncrementalCachingStateStep.executeDelegate(ResolveIncrementalCachingStateStep.java:49)
+    	at org.gradle.internal.execution.steps.ResolveIncrementalCachingStateStep.executeDelegate(ResolveIncrementalCachingStateStep.java:27)
+    	at org.gradle.internal.execution.steps.AbstractResolveCachingStateStep.execute(AbstractResolveCachingStateStep.java:71)
+    	at org.gradle.internal.execution.steps.AbstractResolveCachingStateStep.execute(AbstractResolveCachingStateStep.java:39)
+    	at org.gradle.internal.execution.steps.ResolveChangesStep.execute(ResolveChangesStep.java:65)
+    	at org.gradle.internal.execution.steps.ResolveChangesStep.execute(ResolveChangesStep.java:36)
+    	at org.gradle.internal.execution.steps.ValidateStep.execute(ValidateStep.java:107)
+    	at org.gradle.internal.execution.steps.ValidateStep.execute(ValidateStep.java:56)
+    	at org.gradle.internal.execution.steps.AbstractCaptureStateBeforeExecutionStep.execute(AbstractCaptureStateBeforeExecutionStep.java:64)
+    	at org.gradle.internal.execution.steps.AbstractCaptureStateBeforeExecutionStep.execute(AbstractCaptureStateBeforeExecutionStep.java:43)
+    	at org.gradle.internal.execution.steps.AbstractSkipEmptyWorkStep.executeWithNonEmptySources(AbstractSkipEmptyWorkStep.java:125)
+    	at org.gradle.internal.execution.steps.AbstractSkipEmptyWorkStep.execute(AbstractSkipEmptyWorkStep.java:56)
+    	at org.gradle.internal.execution.steps.AbstractSkipEmptyWorkStep.execute(AbstractSkipEmptyWorkStep.java:36)
+    	at org.gradle.internal.execution.steps.legacy.MarkSnapshottingInputsStartedStep.execute(MarkSnapshottingInputsStartedStep.java:38)
+    	at org.gradle.internal.execution.steps.LoadPreviousExecutionStateStep.execute(LoadPreviousExecutionStateStep.java:36)
+    	at org.gradle.internal.execution.steps.LoadPreviousExecutionStateStep.execute(LoadPreviousExecutionStateStep.java:23)
+    	at org.gradle.internal.execution.steps.HandleStaleOutputsStep.execute(HandleStaleOutputsStep.java:75)
+    	at org.gradle.internal.execution.steps.HandleStaleOutputsStep.execute(HandleStaleOutputsStep.java:41)
+    	at org.gradle.internal.execution.steps.AssignMutableWorkspaceStep.lambda$execute$0(AssignMutableWorkspaceStep.java:35)
+    	at org.gradle.api.internal.tasks.execution.TaskExecution$4.withWorkspace(TaskExecution.java:289)
+    	at org.gradle.internal.execution.steps.AssignMutableWorkspaceStep.execute(AssignMutableWorkspaceStep.java:31)
+    	at org.gradle.internal.execution.steps.AssignMutableWorkspaceStep.execute(AssignMutableWorkspaceStep.java:22)
+    	at org.gradle.internal.execution.steps.ChoosePipelineStep.execute(ChoosePipelineStep.java:40)
+    	at org.gradle.internal.execution.steps.ChoosePipelineStep.execute(ChoosePipelineStep.java:23)
+    	at org.gradle.internal.execution.steps.ExecuteWorkBuildOperationFiringStep.lambda$execute$2(ExecuteWorkBuildOperationFiringStep.java:67)
+    	at java.base/java.util.Optional.orElseGet(Optional.java:364)
+    	at org.gradle.internal.execution.steps.ExecuteWorkBuildOperationFiringStep.execute(ExecuteWorkBuildOperationFiringStep.java:67)
+    	at org.gradle.internal.execution.steps.ExecuteWorkBuildOperationFiringStep.execute(ExecuteWorkBuildOperationFiringStep.java:39)
+    	at org.gradle.internal.execution.steps.IdentityCacheStep.execute(IdentityCacheStep.java:46)
+    	at org.gradle.internal.execution.steps.IdentityCacheStep.execute(IdentityCacheStep.java:34)
+    	at org.gradle.internal.execution.steps.IdentifyStep.execute(IdentifyStep.java:48)
+    	at org.gradle.internal.execution.steps.IdentifyStep.execute(IdentifyStep.java:35)
+    	at org.gradle.internal.execution.impl.DefaultExecutionEngine$1.execute(DefaultExecutionEngine.java:61)
+    	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.executeIfValid(ExecuteActionsTaskExecuter.java:127)
+    	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.execute(ExecuteActionsTaskExecuter.java:116)
+    	at org.gradle.api.internal.tasks.execution.FinalizePropertiesTaskExecuter.execute(FinalizePropertiesTaskExecuter.java:46)
+    	at org.gradle.api.internal.tasks.execution.ResolveTaskExecutionModeExecuter.execute(ResolveTaskExecutionModeExecuter.java:51)
+    	at org.gradle.api.internal.tasks.execution.SkipTaskWithNoActionsExecuter.execute(SkipTaskWithNoActionsExecuter.java:57)
+    	at org.gradle.api.internal.tasks.execution.SkipOnlyIfTaskExecuter.execute(SkipOnlyIfTaskExecuter.java:74)
+    	at org.gradle.api.internal.tasks.execution.CatchExceptionTaskExecuter.execute(CatchExceptionTaskExecuter.java:36)
+    	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.executeTask(EventFiringTaskExecuter.java:77)
+    	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.call(EventFiringTaskExecuter.java:55)
+    	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.call(EventFiringTaskExecuter.java:52)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:209)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:204)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:66)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:59)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:166)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:59)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:53)
+    	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter.execute(EventFiringTaskExecuter.java:52)
+    	at org.gradle.execution.plan.LocalTaskNodeExecutor.execute(LocalTaskNodeExecutor.java:42)
+    	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$InvokeNodeExecutorsAction.execute(DefaultTaskExecutionGraph.java:331)
+    	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$InvokeNodeExecutorsAction.execute(DefaultTaskExecutionGraph.java:318)
+    	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.lambda$execute$0(DefaultTaskExecutionGraph.java:314)
+    	at org.gradle.internal.operations.CurrentBuildOperationRef.with(CurrentBuildOperationRef.java:85)
+    	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.execute(DefaultTaskExecutionGraph.java:314)
+    	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.execute(DefaultTaskExecutionGraph.java:303)
+    	at org.gradle.execution.plan.DefaultPlanExecutor$ExecutorWorker.execute(DefaultPlanExecutor.java:459)
+    	at org.gradle.execution.plan.DefaultPlanExecutor$ExecutorWorker.run(DefaultPlanExecutor.java:376)
+    	at org.gradle.execution.plan.DefaultPlanExecutor.process(DefaultPlanExecutor.java:111)
+    	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph.executeWithServices(DefaultTaskExecutionGraph.java:138)
+    	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph.execute(DefaultTaskExecutionGraph.java:123)
+    	at org.gradle.execution.SelectedTaskExecutionAction.execute(SelectedTaskExecutionAction.java:35)
+    	at org.gradle.execution.DryRunBuildExecutionAction.execute(DryRunBuildExecutionAction.java:51)
+    	at org.gradle.execution.BuildOperationFiringBuildWorkerExecutor$ExecuteTasks.call(BuildOperationFiringBuildWorkerExecutor.java:54)
+    	at org.gradle.execution.BuildOperationFiringBuildWorkerExecutor$ExecuteTasks.call(BuildOperationFiringBuildWorkerExecutor.java:43)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:209)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:204)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:66)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:59)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:166)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:59)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:53)
+    	at org.gradle.execution.BuildOperationFiringBuildWorkerExecutor.execute(BuildOperationFiringBuildWorkerExecutor.java:40)
+    	at org.gradle.internal.build.DefaultBuildLifecycleController.lambda$executeTasks$10(DefaultBuildLifecycleController.java:313)
+    	at org.gradle.internal.model.StateTransitionController.doTransition(StateTransitionController.java:266)
+    	at org.gradle.internal.model.StateTransitionController.lambda$tryTransition$8(StateTransitionController.java:177)
+    	at org.gradle.internal.work.DefaultSynchronizer.withLock(DefaultSynchronizer.java:46)
+    	at org.gradle.internal.model.StateTransitionController.tryTransition(StateTransitionController.java:177)
+    	at org.gradle.internal.build.DefaultBuildLifecycleController.executeTasks(DefaultBuildLifecycleController.java:304)
+    	at org.gradle.internal.build.DefaultBuildWorkGraphController$DefaultBuildWorkGraph.runWork(DefaultBuildWorkGraphController.java:220)
+    	at org.gradle.internal.work.DefaultWorkerLeaseService.withLocks(DefaultWorkerLeaseService.java:263)
+    	at org.gradle.internal.work.DefaultWorkerLeaseService.runAsWorkerThread(DefaultWorkerLeaseService.java:127)
+    	at org.gradle.composite.internal.DefaultBuildController.doRun(DefaultBuildController.java:181)
+    	at org.gradle.composite.internal.DefaultBuildController.access$000(DefaultBuildController.java:50)
+    	at org.gradle.composite.internal.DefaultBuildController$BuildOpRunnable.lambda$run$0(DefaultBuildController.java:198)
+    	at org.gradle.internal.operations.CurrentBuildOperationRef.with(CurrentBuildOperationRef.java:85)
+    	at org.gradle.composite.internal.DefaultBuildController$BuildOpRunnable.run(DefaultBuildController.java:198)
+    	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+    	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+    	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
+    	at org.gradle.internal.concurrent.AbstractManagedExecutor$1.run(AbstractManagedExecutor.java:48)
+    	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+    	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+    	at java.base/java.lang.Thread.run(Thread.java:840)
+    Caused by: java.lang.RuntimeException: java.nio.file.FileSystemException: D:\AR_Menu\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\jniLibs\arm64-v8a\libil2cpp.so -> D:\AR_Menu\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_jni_libs\release\mergeReleaseJniLibFolders\out\arm64-v8a\libil2cpp.so: There is not enough space on the disk
+    	at com.android.ide.common.resources.MergedAssetWriter$AssetWorkAction.run(MergedAssetWriter.java:111)
+    	at com.android.build.gradle.internal.tasks.Workers$RunnableWrapperWorkAction.run(Workers.kt:181)
+    	at com.android.build.gradle.internal.profile.ProfileAwareWorkAction.execute(ProfileAwareWorkAction.kt:74)
+    	at org.gradle.workers.internal.DefaultWorkerServer.execute(DefaultWorkerServer.java:63)
+    	at org.gradle.workers.internal.NoIsolationWorkerFactory$1$1.create(NoIsolationWorkerFactory.java:66)
+    	at org.gradle.workers.internal.NoIsolationWorkerFactory$1$1.create(NoIsolationWorkerFactory.java:62)
+    	at org.gradle.internal.classloader.ClassLoaderUtils.executeInClassloader(ClassLoaderUtils.java:100)
+    	at org.gradle.workers.internal.NoIsolationWorkerFactory$1.lambda$execute$0(NoIsolationWorkerFactory.java:62)
+    	at org.gradle.workers.internal.AbstractWorker$1.call(AbstractWorker.java:44)
+    	at org.gradle.workers.internal.AbstractWorker$1.call(AbstractWorker.java:41)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:209)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:204)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:66)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:59)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:166)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:59)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:53)
+    	at org.gradle.workers.internal.AbstractWorker.executeWrappedInBuildOperation(AbstractWorker.java:41)
+    	at org.gradle.workers.internal.NoIsolationWorkerFactory$1.execute(NoIsolationWorkerFactory.java:59)
+    	at org.gradle.workers.internal.DefaultWorkerExecutor.lambda$submitWork$0(DefaultWorkerExecutor.java:174)
+    	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+    	at org.gradle.internal.work.DefaultConditionalExecutionQueue$ExecutionRunner.runExecution(DefaultConditionalExecutionQueue.java:194)
+    	at org.gradle.internal.work.DefaultConditionalExecutionQueue$ExecutionRunner.access$700(DefaultConditionalExecutionQueue.java:127)
+    	at org.gradle.internal.work.DefaultConditionalExecutionQueue$ExecutionRunner$1.run(DefaultConditionalExecutionQueue.java:169)
+    	at org.gradle.internal.Factories$1.create(Factories.java:31)
+    	at org.gradle.internal.work.DefaultWorkerLeaseService.withLocks(DefaultWorkerLeaseService.java:263)
+    	at org.gradle.internal.work.DefaultWorkerLeaseService.runAsWorkerThread(DefaultWorkerLeaseService.java:127)
+    	at org.gradle.internal.work.DefaultWorkerLeaseService.runAsWorkerThread(DefaultWorkerLeaseService.java:132)
+    	at org.gradle.internal.work.DefaultConditionalExecutionQueue$ExecutionRunner.runBatch(DefaultConditionalExecutionQueue.java:164)
+    	at org.gradle.internal.work.DefaultConditionalExecutionQueue$ExecutionRunner.run(DefaultConditionalExecutionQueue.java:133)
+    	... 7 more
+    Caused by: java.nio.file.FileSystemException: D:\AR_Menu\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\jniLibs\arm64-v8a\libil2cpp.so -> D:\AR_Menu\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_jni_libs\release\mergeReleaseJniLibFolders\out\arm64-v8a\libil2cpp.so: There is not enough space on the disk
+    	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:92)
+    	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+    	at java.base/sun.nio.fs.WindowsFileCopy.copy(WindowsFileCopy.java:209)
+    	at java.base/sun.nio.fs.WindowsFileSystemProvider.copy(WindowsFileSystemProvider.java:284)
+    	at java.base/java.nio.file.Files.copy(Files.java:1305)
+    	at com.android.utils.FileUtils.copyFile(FileUtils.java:164)
+    	at com.android.utils.FileUtils.copyFile(FileUtils.java:144)
+    	at com.android.ide.common.resources.MergedAssetWriter$AssetWorkAction.run(MergedAssetWriter.java:108)
+    	... 36 more
+    
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':unityLibrary:mergeReleaseJniLibFolders'.
+> A failure occurred while executing com.android.build.gradle.internal.tasks.Workers$RunnableWrapperWorkAction
+   > java.nio.file.FileSystemException: D:\AR_Menu\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\jniLibs\arm64-v8a\libil2cpp.so -> D:\AR_Menu\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_jni_libs\release\mergeReleaseJniLibFolders\out\arm64-v8a\libil2cpp.so: There is not enough space on the disk
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+> Get more help at https://help.gradle.org.
+
+BUILD FAILED in 26s
+
+Stack Trace:
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
+
+[Exception] CommandInvokationFailure: Gradle build failed. 
+C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\PlaybackEngines\AndroidPlayer\OpenJDK\bin\java.exe -classpath "C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\PlaybackEngines\AndroidPlayer\Tools\gradle\lib\gradle-launcher-8.11.jar" org.gradle.launcher.GradleMain "-Dorg.gradle.jvmargs=-Xmx4096m" "assembleRelease" 
+
+Environment Variables:
+RlsSvcPort = 22112
+USERDOMAIN = TUFFFY
+ProgramFiles = C:\Program Files
+TMP = C:\Users\stump\AppData\Local\Temp
+PROCESSOR_ARCHITECTURE = AMD64
+EnableLog = INFO
+PROCESSOR_REVISION = 8d01
+OS = Windows_NT
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_5808_JWITSNVWWLCLDFTH
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 141 Stepping 1, GenuineIntel
+ProgramW6432 = C:\Program Files
+USERPROFILE = C:\Users\stump
+JAVA_HOME = C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\PlaybackEngines\AndroidPlayer\OpenJDK
+CommonProgramFiles = C:\Program Files\Common Files
+DriverData = C:\Windows\System32\Drivers\DriverData
+ComSpec = C:\Windows\system32\cmd.exe
+VBOX_MSI_INSTALL_PATH = C:\Program Files\Oracle\VirtualBox\
+PSModulePath = C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+ANDROID_NDK_ROOT = C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\PlaybackEngines\AndroidPlayer\NDK
+SystemRoot = C:\Windows
+EFC_11920 = 1
+IGCCSVC_DB = AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAANw1j/j+8FES/tLZC1uWh2gQAAAACAAAAAAAQZgAAAAEAACAAAADWOB05yjho2u5zNhg5P9lifIKqidYa3amkW/YLG/BeYAAAAAAOgAAAAAIAACAAAACQXmYhPWPjXTNtosYDCFHQH3w/B8SLXzvzyZncJuJSJ2AAAABmph83diLyu6oTaNm5hjXRsnOyuV/qKqffre3Mn9yVD2JLbpBvKygcTjBContyutxnpfyaL4LyJsfwt+TfZtg+EneZq8AcU4+AyAXNUAMQOVuevfE5GGC5nge3rZqdKuxAAAAAlGM5DFuY0yg7SMTli07A6lwLfn5/3BdFF6mgHE6RWMxHUSroDGWJMnlgJtp6qPiLxFBcqGL/Amejt068PtL9lw==
+NUMBER_OF_PROCESSORS = 12
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+HOMEDRIVE = C:
+TEMP = C:\Users\stump\AppData\Local\Temp
+Path = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;D:\Secure LAN Framework\bin;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\CMake\bin;C:\Program Files\nodejs\;C:\Users\stump\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\stump\AppData\Local\Programs\Python\Python312\;C:\Users\stump\AppData\Local\Microsoft\WindowsApps;C:\Users\stump\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\stump\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\stump\.dotnet\tools;C:\Users\stump\AppData\Local\GitHubDesktop\bin;C:\Users\stump\AppData\Roaming\npm
+ACSvcPort = 17532
+USERNAME = stump
+COMPUTERNAME = TUFFFY
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+ALLUSERSPROFILE = C:\ProgramData
+SystemDrive = C:
+windir = C:\Windows
+FPS_BROWSER_USER_PROFILE_STRING = Default
+ZES_ENABLE_SYSMAN = 1
+PUBLIC = C:\Users\Public
+CommonProgramFiles(x86) = C:\Program Files (x86)\Common Files
+APPDATA = C:\Users\stump\AppData\Roaming
+OneDrive = C:\Users\stump\OneDrive
+PROCESSOR_LEVEL = 6
+CommonProgramW6432 = C:\Program Files\Common Files
+ProgramFiles(x86) = C:\Program Files (x86)
+NVIDIAWHITELISTED = 0x01
+SESSIONNAME = Console
+LOGONSERVER = \\TUFFFY
+LOCALAPPDATA = C:\Users\stump\AppData\Local
+HOMEPATH = \Users\stump
+SHIM_MCCOMPAT = 0x810000001
+USERDOMAIN_ROAMINGPROFILE = TUFFFY
+ProgramData = C:\ProgramData
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+
+
+stderr[
+Note: D:\AR_Menu\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\java\com\unity3d\player\UnityPlayerGameActivity.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ERROR: Resource and asset merger: 1 exception was raised by workers:
+A failure occurred while executing com.android.build.gradle.internal.tasks.Workers$RunnableWrapperWorkAction
+
+    Cause 1: org.gradle.workers.internal.DefaultWorkerExecutor$WorkExecutionException: A failure occurred while executing com.android.build.gradle.internal.tasks.Workers$RunnableWrapperWorkAction
+    	at org.gradle.workers.internal.DefaultWorkerExecutor$WorkItemExecution.waitForCompletion(DefaultWorkerExecutor.java:287)
+    	at org.gradle.internal.work.DefaultAsyncWorkTracker.lambda$waitForItemsAndGatherFailures$2(DefaultAsyncWorkTracker.java:130)
+    	at org.gradle.internal.Factories$1.create(Factories.java:31)
+    	at org.gradle.internal.work.DefaultWorkerLeaseService.withoutLocks(DefaultWorkerLeaseService.java:335)
+    	at org.gradle.internal.work.DefaultWorkerLeaseService.withoutLocks(DefaultWorkerLeaseService.java:318)
+    	at org.gradle.internal.work.DefaultWorkerLeaseService.withoutLock(DefaultWorkerLeaseService.java:323)
+    	at org.gradle.internal.work.DefaultAsyncWorkTracker.waitForItemsAndGatherFailures(DefaultAsyncWorkTracker.java:126)
+    	at org.gradle.internal.work.DefaultAsyncWorkTracker.waitForItemsAndGatherFailures(DefaultAsyncWorkTracker.java:88)
+    	at org.gradle.internal.work.DefaultAsyncWorkTracker.waitForAll(DefaultAsyncWorkTracker.java:78)
+    	at org.gradle.internal.work.DefaultAsyncWorkTracker.waitForCompletion(DefaultAsyncWorkTracker.java:66)
+    	at org.gradle.workers.internal.DefaultWorkerExecutor.await(DefaultWorkerExecutor.java:203)
+    	at com.android.build.gradle.internal.tasks.Workers$WorkerExecutorAdapter.await(Workers.kt:109)
+    	at com.android.ide.common.resources.MergeWriter.end(MergeWriter.java:48)
+    	at com.android.ide.common.resources.DataMerger.mergeData(DataMerger.java:299)
+    	at com.android.ide.common.resources.AssetMerger.mergeData(AssetMerger.java:28)
+    	at com.android.build.gradle.tasks.MergeSourceSetFolders.doFullTaskAction(MergeSourceSetFolders.kt:160)
+    	at com.android.build.gradle.tasks.MergeSourceSetFolders.doTaskAction(MergeSourceSetFolders.kt:122)
+    	at com.android.build.gradle.internal.tasks.NewIncrementalTask$taskAction$$inlined$recordTaskAction$1.invoke(BaseTask.kt:82)
+    	at com.android.build.gradle.internal.tasks.Blocks.recordSpan(Blocks.java:51)
+    	at com.android.build.gradle.internal.tasks.NewIncrementalTask.taskAction(NewIncrementalTask.kt:46)
+    	at jdk.internal.reflect.GeneratedMethodAccessor91.invoke(Unknown Source)
+    	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+    	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+    	at org.gradle.internal.reflect.JavaMethod.invoke(JavaMethod.java:125)
+    	at org.gradle.api.internal.project.taskfactory.IncrementalTaskAction.doExecute(IncrementalTaskAction.java:45)
+    	at org.gradle.api.internal.project.taskfactory.StandardTaskAction.execute(StandardTaskAction.java:51)
+    	at org.gradle.api.internal.project.taskfactory.IncrementalTaskAction.execute(IncrementalTaskAction.java:26)
+    	at org.gradle.api.internal.project.taskfactory.StandardTaskAction.execute(StandardTaskAction.java:29)
+    	at org.gradle.api.internal.tasks.execution.TaskExecution$3.run(TaskExecution.java:244)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:29)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:26)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:66)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:59)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:166)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:59)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner.run(DefaultBuildOperationRunner.java:47)
+    	at org.gradle.api.internal.tasks.execution.TaskExecution.executeAction(TaskExecution.java:229)
+    	at org.gradle.api.internal.tasks.execution.TaskExecution.executeActions(TaskExecution.java:212)
+    	at org.gradle.api.internal.tasks.execution.TaskExecution.executeWithPreviousOutputFiles(TaskExecution.java:195)
+    	at org.gradle.api.internal.tasks.execution.TaskExecution.execute(TaskExecution.java:162)
+    	at org.gradle.internal.execution.steps.ExecuteStep.executeInternal(ExecuteStep.java:105)
+    	at org.gradle.internal.execution.steps.ExecuteStep.access$000(ExecuteStep.java:44)
+    	at org.gradle.internal.execution.steps.ExecuteStep$1.call(ExecuteStep.java:59)
+    	at org.gradle.internal.execution.steps.ExecuteStep$1.call(ExecuteStep.java:56)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:209)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:204)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:66)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:59)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:166)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:59)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:53)
+    	at org.gradle.internal.execution.steps.ExecuteStep.execute(ExecuteStep.java:56)
+    	at org.gradle.internal.execution.steps.ExecuteStep.execute(ExecuteStep.java:44)
+    	at org.gradle.internal.execution.steps.CancelExecutionStep.execute(CancelExecutionStep.java:42)
+    	at org.gradle.internal.execution.steps.TimeoutStep.executeWithoutTimeout(TimeoutStep.java:75)
+    	at org.gradle.internal.execution.steps.TimeoutStep.execute(TimeoutStep.java:55)
+    	at org.gradle.internal.execution.steps.PreCreateOutputParentsStep.execute(PreCreateOutputParentsStep.java:50)
+    	at org.gradle.internal.execution.steps.PreCreateOutputParentsStep.execute(PreCreateOutputParentsStep.java:28)
+    	at org.gradle.internal.execution.steps.RemovePreviousOutputsStep.execute(RemovePreviousOutputsStep.java:67)
+    	at org.gradle.internal.execution.steps.RemovePreviousOutputsStep.execute(RemovePreviousOutputsStep.java:37)
+    	at org.gradle.internal.execution.steps.BroadcastChangingOutputsStep.execute(BroadcastChangingOutputsStep.java:61)
+    	at org.gradle.internal.execution.steps.BroadcastChangingOutputsStep.execute(BroadcastChangingOutputsStep.java:26)
+    	at org.gradle.internal.execution.steps.CaptureOutputsAfterExecutionStep.execute(CaptureOutputsAfterExecutionStep.java:69)
+    	at org.gradle.internal.execution.steps.CaptureOutputsAfterExecutionStep.execute(CaptureOutputsAfterExecutionStep.java:46)
+    	at org.gradle.internal.execution.steps.ResolveInputChangesStep.execute(ResolveInputChangesStep.java:40)
+    	at org.gradle.internal.execution.steps.ResolveInputChangesStep.execute(ResolveInputChangesStep.java:29)
+    	at org.gradle.internal.execution.steps.BuildCacheStep.executeWithoutCache(BuildCacheStep.java:189)
+    	at org.gradle.internal.execution.steps.BuildCacheStep.lambda$execute$1(BuildCacheStep.java:75)
+    	at org.gradle.internal.Either$Right.fold(Either.java:175)
+    	at org.gradle.internal.execution.caching.CachingState.fold(CachingState.java:62)
+    	at org.gradle.internal.execution.steps.BuildCacheStep.execute(BuildCacheStep.java:73)
+    	at org.gradle.internal.execution.steps.BuildCacheStep.execute(BuildCacheStep.java:48)
+    	at org.gradle.internal.execution.steps.StoreExecutionStateStep.execute(StoreExecutionStateStep.java:46)
+    	at org.gradle.internal.execution.steps.StoreExecutionStateStep.execute(StoreExecutionStateStep.java:35)
+    	at org.gradle.internal.execution.steps.SkipUpToDateStep.executeBecause(SkipUpToDateStep.java:75)
+    	at org.gradle.internal.execution.steps.SkipUpToDateStep.lambda$execute$2(SkipUpToDateStep.java:53)
+    	at java.base/java.util.Optional.orElseGet(Optional.java:364)
+    	at org.gradle.internal.execution.steps.SkipUpToDateStep.execute(SkipUpToDateStep.java:53)
+    	at org.gradle.internal.execution.steps.SkipUpToDateStep.execute(SkipUpToDateStep.java:35)
+    	at org.gradle.internal.execution.steps.legacy.MarkSnapshottingInputsFinishedStep.execute(MarkSnapshottingInputsFinishedStep.java:37)
+    	at org.gradle.internal.execution.steps.legacy.MarkSnapshottingInputsFinishedStep.execute(MarkSnapshottingInputsFinishedStep.java:27)
+    	at org.gradle.internal.execution.steps.ResolveIncrementalCachingStateStep.executeDelegate(ResolveIncrementalCachingStateStep.java:49)
+    	at org.gradle.internal.execution.steps.ResolveIncrementalCachingStateStep.executeDelegate(ResolveIncrementalCachingStateStep.java:27)
+    	at org.gradle.internal.execution.steps.AbstractResolveCachingStateStep.execute(AbstractResolveCachingStateStep.java:71)
+    	at org.gradle.internal.execution.steps.AbstractResolveCachingStateStep.execute(AbstractResolveCachingStateStep.java:39)
+    	at org.gradle.internal.execution.steps.ResolveChangesStep.execute(ResolveChangesStep.java:65)
+    	at org.gradle.internal.execution.steps.ResolveChangesStep.execute(ResolveChangesStep.java:36)
+    	at org.gradle.internal.execution.steps.ValidateStep.execute(ValidateStep.java:107)
+    	at org.gradle.internal.execution.steps.ValidateStep.execute(ValidateStep.java:56)
+    	at org.gradle.internal.execution.steps.AbstractCaptureStateBeforeExecutionStep.execute(AbstractCaptureStateBeforeExecutionStep.java:64)
+    	at org.gradle.internal.execution.steps.AbstractCaptureStateBeforeExecutionStep.execute(AbstractCaptureStateBeforeExecutionStep.java:43)
+    	at org.gradle.internal.execution.steps.AbstractSkipEmptyWorkStep.executeWithNonEmptySources(AbstractSkipEmptyWorkStep.java:125)
+    	at org.gradle.internal.execution.steps.AbstractSkipEmptyWorkStep.execute(AbstractSkipEmptyWorkStep.java:56)
+    	at org.gradle.internal.execution.steps.AbstractSkipEmptyWorkStep.execute(AbstractSkipEmptyWorkStep.java:36)
+    	at org.gradle.internal.execution.steps.legacy.MarkSnapshottingInputsStartedStep.execute(MarkSnapshottingInputsStartedStep.java:38)
+    	at org.gradle.internal.execution.steps.LoadPreviousExecutionStateStep.execute(LoadPreviousExecutionStateStep.java:36)
+    	at org.gradle.internal.execution.steps.LoadPreviousExecutionStateStep.execute(LoadPreviousExecutionStateStep.java:23)
+    	at org.gradle.internal.execution.steps.HandleStaleOutputsStep.execute(HandleStaleOutputsStep.java:75)
+    	at org.gradle.internal.execution.steps.HandleStaleOutputsStep.execute(HandleStaleOutputsStep.java:41)
+    	at org.gradle.internal.execution.steps.AssignMutableWorkspaceStep.lambda$execute$0(AssignMutableWorkspaceStep.java:35)
+    	at org.gradle.api.internal.tasks.execution.TaskExecution$4.withWorkspace(TaskExecution.java:289)
+    	at org.gradle.internal.execution.steps.AssignMutableWorkspaceStep.execute(AssignMutableWorkspaceStep.java:31)
+    	at org.gradle.internal.execution.steps.AssignMutableWorkspaceStep.execute(AssignMutableWorkspaceStep.java:22)
+    	at org.gradle.internal.execution.steps.ChoosePipelineStep.execute(ChoosePipelineStep.java:40)
+    	at org.gradle.internal.execution.steps.ChoosePipelineStep.execute(ChoosePipelineStep.java:23)
+    	at org.gradle.internal.execution.steps.ExecuteWorkBuildOperationFiringStep.lambda$execute$2(ExecuteWorkBuildOperationFiringStep.java:67)
+    	at java.base/java.util.Optional.orElseGet(Optional.java:364)
+    	at org.gradle.internal.execution.steps.ExecuteWorkBuildOperationFiringStep.execute(ExecuteWorkBuildOperationFiringStep.java:67)
+    	at org.gradle.internal.execution.steps.ExecuteWorkBuildOperationFiringStep.execute(ExecuteWorkBuildOperationFiringStep.java:39)
+    	at org.gradle.internal.execution.steps.IdentityCacheStep.execute(IdentityCacheStep.java:46)
+    	at org.gradle.internal.execution.steps.IdentityCacheStep.execute(IdentityCacheStep.java:34)
+    	at org.gradle.internal.execution.steps.IdentifyStep.execute(IdentifyStep.java:48)
+    	at org.gradle.internal.execution.steps.IdentifyStep.execute(IdentifyStep.java:35)
+    	at org.gradle.internal.execution.impl.DefaultExecutionEngine$1.execute(DefaultExecutionEngine.java:61)
+    	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.executeIfValid(ExecuteActionsTaskExecuter.java:127)
+    	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.execute(ExecuteActionsTaskExecuter.java:116)
+    	at org.gradle.api.internal.tasks.execution.FinalizePropertiesTaskExecuter.execute(FinalizePropertiesTaskExecuter.java:46)
+    	at org.gradle.api.internal.tasks.execution.ResolveTaskExecutionModeExecuter.execute(ResolveTaskExecutionModeExecuter.java:51)
+    	at org.gradle.api.internal.tasks.execution.SkipTaskWithNoActionsExecuter.execute(SkipTaskWithNoActionsExecuter.java:57)
+    	at org.gradle.api.internal.tasks.execution.SkipOnlyIfTaskExecuter.execute(SkipOnlyIfTaskExecuter.java:74)
+    	at org.gradle.api.internal.tasks.execution.CatchExceptionTaskExecuter.execute(CatchExceptionTaskExecuter.java:36)
+    	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.executeTask(EventFiringTaskExecuter.java:77)
+    	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.call(EventFiringTaskExecuter.java:55)
+    	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.call(EventFiringTaskExecuter.java:52)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:209)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:204)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:66)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:59)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:166)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:59)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:53)
+    	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter.execute(EventFiringTaskExecuter.java:52)
+    	at org.gradle.execution.plan.LocalTaskNodeExecutor.execute(LocalTaskNodeExecutor.java:42)
+    	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$InvokeNodeExecutorsAction.execute(DefaultTaskExecutionGraph.java:331)
+    	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$InvokeNodeExecutorsAction.execute(DefaultTaskExecutionGraph.java:318)
+    	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.lambda$execute$0(DefaultTaskExecutionGraph.java:314)
+    	at org.gradle.internal.operations.CurrentBuildOperationRef.with(CurrentBuildOperationRef.java:85)
+    	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.execute(DefaultTaskExecutionGraph.java:314)
+    	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.execute(DefaultTaskExecutionGraph.java:303)
+    	at org.gradle.execution.plan.DefaultPlanExecutor$ExecutorWorker.execute(DefaultPlanExecutor.java:459)
+    	at org.gradle.execution.plan.DefaultPlanExecutor$ExecutorWorker.run(DefaultPlanExecutor.java:376)
+    	at org.gradle.execution.plan.DefaultPlanExecutor.process(DefaultPlanExecutor.java:111)
+    	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph.executeWithServices(DefaultTaskExecutionGraph.java:138)
+    	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph.execute(DefaultTaskExecutionGraph.java:123)
+    	at org.gradle.execution.SelectedTaskExecutionAction.execute(SelectedTaskExecutionAction.java:35)
+    	at org.gradle.execution.DryRunBuildExecutionAction.execute(DryRunBuildExecutionAction.java:51)
+    	at org.gradle.execution.BuildOperationFiringBuildWorkerExecutor$ExecuteTasks.call(BuildOperationFiringBuildWorkerExecutor.java:54)
+    	at org.gradle.execution.BuildOperationFiringBuildWorkerExecutor$ExecuteTasks.call(BuildOperationFiringBuildWorkerExecutor.java:43)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:209)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:204)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:66)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:59)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:166)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:59)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:53)
+    	at org.gradle.execution.BuildOperationFiringBuildWorkerExecutor.execute(BuildOperationFiringBuildWorkerExecutor.java:40)
+    	at org.gradle.internal.build.DefaultBuildLifecycleController.lambda$executeTasks$10(DefaultBuildLifecycleController.java:313)
+    	at org.gradle.internal.model.StateTransitionController.doTransition(StateTransitionController.java:266)
+    	at org.gradle.internal.model.StateTransitionController.lambda$tryTransition$8(StateTransitionController.java:177)
+    	at org.gradle.internal.work.DefaultSynchronizer.withLock(DefaultSynchronizer.java:46)
+    	at org.gradle.internal.model.StateTransitionController.tryTransition(StateTransitionController.java:177)
+    	at org.gradle.internal.build.DefaultBuildLifecycleController.executeTasks(DefaultBuildLifecycleController.java:304)
+    	at org.gradle.internal.build.DefaultBuildWorkGraphController$DefaultBuildWorkGraph.runWork(DefaultBuildWorkGraphController.java:220)
+    	at org.gradle.internal.work.DefaultWorkerLeaseService.withLocks(DefaultWorkerLeaseService.java:263)
+    	at org.gradle.internal.work.DefaultWorkerLeaseService.runAsWorkerThread(DefaultWorkerLeaseService.java:127)
+    	at org.gradle.composite.internal.DefaultBuildController.doRun(DefaultBuildController.java:181)
+    	at org.gradle.composite.internal.DefaultBuildController.access$000(DefaultBuildController.java:50)
+    	at org.gradle.composite.internal.DefaultBuildController$BuildOpRunnable.lambda$run$0(DefaultBuildController.java:198)
+    	at org.gradle.internal.operations.CurrentBuildOperationRef.with(CurrentBuildOperationRef.java:85)
+    	at org.gradle.composite.internal.DefaultBuildController$BuildOpRunnable.run(DefaultBuildController.java:198)
+    	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+    	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+    	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
+    	at org.gradle.internal.concurrent.AbstractManagedExecutor$1.run(AbstractManagedExecutor.java:48)
+    	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+    	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+    	at java.base/java.lang.Thread.run(Thread.java:840)
+    Caused by: java.lang.RuntimeException: java.nio.file.FileSystemException: D:\AR_Menu\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\jniLibs\arm64-v8a\libil2cpp.so -> D:\AR_Menu\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_jni_libs\release\mergeReleaseJniLibFolders\out\arm64-v8a\libil2cpp.so: There is not enough space on the disk
+    	at com.android.ide.common.resources.MergedAssetWriter$AssetWorkAction.run(MergedAssetWriter.java:111)
+    	at com.android.build.gradle.internal.tasks.Workers$RunnableWrapperWorkAction.run(Workers.kt:181)
+    	at com.android.build.gradle.internal.profile.ProfileAwareWorkAction.execute(ProfileAwareWorkAction.kt:74)
+    	at org.gradle.workers.internal.DefaultWorkerServer.execute(DefaultWorkerServer.java:63)
+    	at org.gradle.workers.internal.NoIsolationWorkerFactory$1$1.create(NoIsolationWorkerFactory.java:66)
+    	at org.gradle.workers.internal.NoIsolationWorkerFactory$1$1.create(NoIsolationWorkerFactory.java:62)
+    	at org.gradle.internal.classloader.ClassLoaderUtils.executeInClassloader(ClassLoaderUtils.java:100)
+    	at org.gradle.workers.internal.NoIsolationWorkerFactory$1.lambda$execute$0(NoIsolationWorkerFactory.java:62)
+    	at org.gradle.workers.internal.AbstractWorker$1.call(AbstractWorker.java:44)
+    	at org.gradle.workers.internal.AbstractWorker$1.call(AbstractWorker.java:41)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:209)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:204)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:66)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:59)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:166)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:59)
+    	at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:53)
+    	at org.gradle.workers.internal.AbstractWorker.executeWrappedInBuildOperation(AbstractWorker.java:41)
+    	at org.gradle.workers.internal.NoIsolationWorkerFactory$1.execute(NoIsolationWorkerFactory.java:59)
+    	at org.gradle.workers.internal.DefaultWorkerExecutor.lambda$submitWork$0(DefaultWorkerExecutor.java:174)
+    	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+    	at org.gradle.internal.work.DefaultConditionalExecutionQueue$ExecutionRunner.runExecution(DefaultConditionalExecutionQueue.java:194)
+    	at org.gradle.internal.work.DefaultConditionalExecutionQueue$ExecutionRunner.access$700(DefaultConditionalExecutionQueue.java:127)
+    	at org.gradle.internal.work.DefaultConditionalExecutionQueue$ExecutionRunner$1.run(DefaultConditionalExecutionQueue.java:169)
+    	at org.gradle.internal.Factories$1.create(Factories.java:31)
+    	at org.gradle.internal.work.DefaultWorkerLeaseService.withLocks(DefaultWorkerLeaseService.java:263)
+    	at org.gradle.internal.work.DefaultWorkerLeaseService.runAsWorkerThread(DefaultWorkerLeaseService.java:127)
+    	at org.gradle.internal.work.DefaultWorkerLeaseService.runAsWorkerThread(DefaultWorkerLeaseService.java:132)
+    	at org.gradle.internal.work.DefaultConditionalExecutionQueue$ExecutionRunner.runBatch(DefaultConditionalExecutionQueue.java:164)
+    	at org.gradle.internal.work.DefaultConditionalExecutionQueue$ExecutionRunner.run(DefaultConditionalExecutionQueue.java:133)
+    	... 7 more
+    Caused by: java.nio.file.FileSystemException: D:\AR_Menu\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\jniLibs\arm64-v8a\libil2cpp.so -> D:\AR_Menu\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_jni_libs\release\mergeReleaseJniLibFolders\out\arm64-v8a\libil2cpp.so: There is not enough space on the disk
+    	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:92)
+    	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+    	at java.base/sun.nio.fs.WindowsFileCopy.copy(WindowsFileCopy.java:209)
+    	at java.base/sun.nio.fs.WindowsFileSystemProvider.copy(WindowsFileSystemProvider.java:284)
+    	at java.base/java.nio.file.Files.copy(Files.java:1305)
+    	at com.android.utils.FileUtils.copyFile(FileUtils.java:164)
+    	at com.android.utils.FileUtils.copyFile(FileUtils.java:144)
+    	at com.android.ide.common.resources.MergedAssetWriter$AssetWorkAction.run(MergedAssetWriter.java:108)
+    	... 36 more
+    
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':unityLibrary:mergeReleaseJniLibFolders'.
+> A failure occurred while executing com.android.build.gradle.internal.tasks.Workers$RunnableWrapperWorkAction
+   > java.nio.file.FileSystemException: D:\AR_Menu\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\jniLibs\arm64-v8a\libil2cpp.so -> D:\AR_Menu\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_jni_libs\release\mergeReleaseJniLibFolders\out\arm64-v8a\libil2cpp.so: There is not enough space on the disk
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+> Get more help at https://help.gradle.org.
+
+BUILD FAILED in 26s
+]
+stdout[
+
+> Configure project :unityLibrary
+Variant 'debug', will keep symbols in binaries for:
+  'libunity.so'
+  'libil2cpp.so'
+  'libmain.so'
+Variant 'release', symbols will be stripped from binaries.
+
+> Configure project :launcher
+Variant 'debug', will keep symbols in binaries for:
+  'libunity.so'
+  'libil2cpp.so'
+  'libmain.so'
+Variant 'release', symbols will be stripped from binaries.
+WARNING: We recommend using a newer Android Gradle plugin to use compileSdk = 36
+
+This Android Gradle plugin (8.7.2) was tested up to compileSdk = 35.
+
+You are strongly encouraged to update your project to use a newer
+Android Gradle plugin that has been tested with compileSdk = 36.
+
+If you are already using the latest version of the Android Gradle plugin,
+you may need to wait until a newer version with support for compileSdk = 36 is available.
+
+For more information refer to the compatibility table:
+https://d.android.com/r/tools/api-level-support
+
+To suppress this warning, add/update
+    android.suppressUnsupportedCompileSdk=36
+to this project's gradle.properties.
+Exception while marshalling C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\build-tools\34.0.0\package.xml. Probably the SDK is read-only
+Exception while marshalling C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\platform-tools\package.xml. Probably the SDK is read-only
+Exception while marshalling C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\platforms\android-34\package.xml. Probably the SDK is read-only
+Exception while marshalling C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\platforms\android-35\package.xml. Probably the SDK is read-only
+Exception while marshalling C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\platforms\android-36\package.xml. Probably the SDK is read-only
+Exception while marshalling C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\tools\package.xml. Probably the SDK is read-only
+Exception while marshalling C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\build-tools\34.0.0\package.xml. Probably the SDK is read-only
+Exception while marshalling C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\platform-tools\package.xml. Probably the SDK is read-only
+Exception while marshalling C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\platforms\android-34\package.xml. Probably the SDK is read-only
+Exception while marshalling C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\platforms\android-35\package.xml. Probably the SDK is read-only
+Exception while marshalling C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\platforms\android-36\package.xml. Probably the SDK is read-only
+Exception while marshalling C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\tools\package.xml. Probably the SDK is read-only
+
+> Task :unityLibrary:xrmanifest.androidlib:preBuild UP-TO-DATE
+> Task :unityLibrary:preBuild UP-TO-DATE
+> Task :unityLibrary:xrmanifest.androidlib:preReleaseBuild UP-TO-DATE
+> Task :unityLibrary:preReleaseBuild UP-TO-DATE
+> Task :launcher:preBuild UP-TO-DATE
+> Task :launcher:preReleaseBuild UP-TO-DATE
+> Task :unityLibrary:generateReleaseResValues
+> Task :launcher:generateReleaseResValues
+> Task :unityLibrary:xrmanifest.androidlib:generateReleaseResValues
+> Task :launcher:javaPreCompileRelease
+> Task :unityLibrary:writeReleaseAarMetadata
+> Task :unityLibrary:xrmanifest.androidlib:writeReleaseAarMetadata
+> Task :unityLibrary:xrmanifest.androidlib:generateReleaseResources
+> Task :unityLibrary:generateReleaseResources
+> Task :launcher:generateReleaseResources
+> Task :unityLibrary:xrmanifest.androidlib:packageReleaseResources
+> Task :unityLibrary:xrmanifest.androidlib:extractDeepLinksRelease
+> Task :unityLibrary:xrmanifest.androidlib:compileReleaseLibraryResources
+> Task :unityLibrary:packageReleaseResources
+> Task :unityLibrary:extractDeepLinksRelease
+> Task :unityLibrary:compileReleaseLibraryResources
+
+> Task :unityLibrary:xrmanifest.androidlib:processReleaseManifest
+package="com.UnityTechnologies.XR.Manifest" found in source AndroidManifest.xml: D:\AR_Menu\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml.
+Setting the namespace via the package attribute in the source AndroidManifest.xml is no longer supported, and the value is ignored.
+Recommendation: remove package="com.UnityTechnologies.XR.Manifest" from the source AndroidManifest.xml: D:\AR_Menu\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml.
+
+> Task :unityLibrary:processReleaseManifest
+> Task :unityLibrary:xrmanifest.androidlib:javaPreCompileRelease
+> Task :unityLibrary:javaPreCompileRelease
+> Task :unityLibrary:xrmanifest.androidlib:processReleaseJavaRes NO-SOURCE
+> Task :unityLibrary:processReleaseJavaRes
+> Task :unityLibrary:xrmanifest.androidlib:parseReleaseLocalResources
+> Task :unityLibrary:xrmanifest.androidlib:extractProguardFiles
+> Task :launcher:checkReleaseAarMetadata
+> Task :unityLibrary:extractProguardFiles
+> Task :unityLibrary:prepareLintJarForPublish
+> Task :unityLibrary:parseReleaseLocalResources
+> Task :unityLibrary:xrmanifest.androidlib:prepareLintJarForPublish
+> Task :launcher:mapReleaseSourceSetPaths
+> Task :unityLibrary:xrmanifest.androidlib:mergeReleaseJniLibFolders
+> Task :unityLibrary:xrmanifest.androidlib:mergeReleaseNativeLibs NO-SOURCE
+> Task :unityLibrary:xrmanifest.androidlib:stripReleaseDebugSymbols NO-SOURCE
+> Task :unityLibrary:xrmanifest.androidlib:extractDeepLinksForAarRelease
+> Task :unityLibrary:xrmanifest.androidlib:copyReleaseJniLibsProjectAndLocalJars
+> Task :unityLibrary:xrmanifest.androidlib:mergeReleaseShaders
+> Task :unityLibrary:xrmanifest.androidlib:compileReleaseShaders NO-SOURCE
+> Task :unityLibrary:xrmanifest.androidlib:generateReleaseAssets UP-TO-DATE
+> Task :unityLibrary:xrmanifest.androidlib:packageReleaseAssets
+> Task :unityLibrary:xrmanifest.androidlib:prepareReleaseArtProfile
+> Task :unityLibrary:xrmanifest.androidlib:generateReleaseRFile
+> Task :unityLibrary:xrmanifest.androidlib:writeReleaseLintModelMetadata
+> Task :unityLibrary:xrmanifest.androidlib:compileReleaseJavaWithJavac NO-SOURCE
+> Task :unityLibrary:xrmanifest.androidlib:bundleLibCompileToJarRelease
+> Task :unityLibrary:xrmanifest.androidlib:bundleLibRuntimeToJarRelease
+> Task :unityLibrary:xrmanifest.androidlib:mergeReleaseJavaResource
+> Task :unityLibrary:xrmanifest.androidlib:generateReleaseLintModel
+> Task :unityLibrary:xrmanifest.androidlib:createFullJarRelease
+> Task :unityLibrary:xrmanifest.androidlib:extractReleaseAnnotations
+> Task :unityLibrary:xrmanifest.androidlib:mergeReleaseGeneratedProguardFiles
+> Task :unityLibrary:xrmanifest.androidlib:mergeReleaseConsumerProguardFiles
+> Task :unityLibrary:xrmanifest.androidlib:syncReleaseLibJars
+> Task :launcher:packageReleaseResources
+> Task :launcher:createReleaseCompatibleScreenManifests
+> Task :launcher:parseReleaseLocalResources
+> Task :launcher:extractDeepLinksRelease
+> Task :unityLibrary:xrmanifest.androidlib:bundleReleaseLocalLintAar
+> Task :unityLibrary:xrmanifest.androidlib:generateReleaseLintVitalModel
+> Task :unityLibrary:xrmanifest.androidlib:bundleLibRuntimeToDirRelease
+> Task :unityLibrary:xrmanifest.androidlib:copyReleaseJniLibsProjectOnly
+
+> Task :launcher:processReleaseMainManifest
+[:arcore_client:] C:\Users\stump\.gradle\caches\8.11\transforms\0585d3b99c4ea2428956a2fa191bcb7c\transformed\jetified-arcore_client\AndroidManifest.xml Warning:
+	Namespace 'com.google.ar.core' is used in multiple modules and/or libraries: :arcore_client:, :unityandroidpermissions:. Please ensure that all modules and libraries have a unique namespace. For more information, See https://developer.android.com/studio/build/configure-app-module#set-namespace
+
+> Task :launcher:processReleaseManifest
+> Task :launcher:extractProguardFiles
+> Task :launcher:mergeReleaseNativeDebugMetadata NO-SOURCE
+> Task :unityLibrary:configureCMakeRelWithDebInfo[arm64-v8a]
+> Task :unityLibrary:generateReleaseRFile
+> Task :launcher:mergeReleaseResources
+> Task :launcher:mergeReleaseStartupProfile
+> Task :launcher:processReleaseManifestForPackage
+> Task :launcher:checkReleaseDuplicateClasses
+> Task :launcher:mergeReleaseShaders
+> Task :launcher:compileReleaseShaders NO-SOURCE
+> Task :launcher:generateReleaseAssets UP-TO-DATE
+> Task :launcher:extractReleaseVersionControlInfo
+> Task :launcher:processReleaseJavaRes NO-SOURCE
+> Task :launcher:collectReleaseDependencies
+> Task :launcher:sdkReleaseDependencyData
+> Task :launcher:mergeReleaseJniLibFolders
+> Task :launcher:validateSigningRelease
+> Task :launcher:writeReleaseAppMetadata
+> Task :launcher:writeReleaseSigningConfigVersions
+> Task :unityLibrary:xrmanifest.androidlib:lintVitalAnalyzeRelease
+> Task :unityLibrary:buildCMakeRelWithDebInfo[arm64-v8a]
+> Task :launcher:desugarReleaseFileDependencies
+> Task :launcher:processReleaseResources
+> Task :launcher:mergeReleaseJavaResource
+> Task :launcher:optimizeReleaseResources
+
+> Task :unityLibrary:compileReleaseJavaWithJavac
+
+> Task :launcher:mergeExtDexRelease
+> Task :unityLibrary:bundleLibCompileToJarRelease
+> Task :unityLibrary:bundleLibRuntimeToJarRelease
+> Task :launcher:compileReleaseJavaWithJavac NO-SOURCE
+> Task :unityLibrary:generateReleaseLintModel
+> Task :unityLibrary:createFullJarRelease
+> Task :launcher:dexBuilderRelease
+> Task :launcher:generateReleaseLintVitalReportModel
+> Task :launcher:mergeReleaseGlobalSynthetics
+
+> Task :unityLibrary:mergeReleaseJniLibFolders FAILED
+[Incubating] Problems report is available at: file:///D:/AR_Menu/Library/Bee/Android/Prj/IL2CPP/Gradle/build/reports/problems/problems-report.html
+86 actionable tasks: 86 executed
+]
+exit code: 1
+Stack Trace:
+UnityEditor.Android.Command.WaitForProgramToRun (UnityEditor.Utils.Program p, UnityEditor.Android.Command+WaitingForProcessToExit waitingForProcessToExit, System.String errorMsg) (at /home/bokken/build/output/unity/unity/PlatformDependent/AndroidPlayer/Editor/Managed/Android/Command.cs:221)
+UnityEditor.Android.Command.Run (System.Diagnostics.ProcessStartInfo psi, UnityEditor.Android.Command+WaitingForProcessToExit waitingForProcessToExit, System.String errorMsg) (at /home/bokken/build/output/unity/unity/PlatformDependent/AndroidPlayer/Editor/Managed/Android/Command.cs:159)
+UnityEditor.Android.Command.Run (System.String command, System.String args, System.String workingdir, UnityEditor.Android.Command+WaitingForProcessToExit waitingForProcessToExit, System.String errorMsg, System.Text.Encoding inputEncoding) (at /home/bokken/build/output/unity/unity/PlatformDependent/AndroidPlayer/Editor/Managed/Android/Command.cs:117)
+UnityEditor.Android.AndroidJavaTools.RunJava (System.String args, System.String workingdir, System.Action`1[T] progress, System.String error) (at /home/bokken/build/output/unity/unity/PlatformDependent/AndroidPlayer/Editor/Managed/Android/AndroidJavaTools.cs:115)
+UnityEditor.Android.GradleWrapper.Run (UnityEditor.Android.AndroidJavaTools javaTools, Unity.Android.Gradle.AndroidGradle androidGradle, System.String workingdir, System.String task, System.String[] extraArguments, System.Action`1[T] progress) (at /home/bokken/build/output/unity/unity/PlatformDependent/AndroidPlayer/Editor/Managed/Android/Gradle.cs:227)
+Rethrow as GradleInvokationException: Gradle build failed
+UnityEditor.Android.GradleWrapper.Run (UnityEditor.Android.AndroidJavaTools javaTools, Unity.Android.Gradle.AndroidGradle androidGradle, System.String workingdir, System.String task, System.String[] extraArguments, System.Action`1[T] progress) (at /home/bokken/build/output/unity/unity/PlatformDependent/AndroidPlayer/Editor/Managed/Android/Gradle.cs:232)
+UnityEditor.Android.PostProcessor.Tasks.TasksCommon.RunGradleTask (UnityEditor.Android.PostProcessor.PostProcessorContext context, System.String workingDirectory, System.String taskName, System.String[] extraArguments, UnityEditor.Android.PostProcessor.IPostProcessorTask owner, UnityEditor.Android.PostProcessor.ProgressHandler progress) (at /home/bokken/build/output/unity/unity/PlatformDependent/AndroidPlayer/Editor/Managed/PostProcessor/Tasks/TasksCommon.cs:72)
+UnityEditor.Android.PostProcessor.Tasks.TasksCommon.RunLauncherGradleTask (UnityEditor.Android.PostProcessor.PostProcessorContext context, System.String taskName, System.String[] extraArguments, UnityEditor.Android.PostProcessor.IPostProcessorTask owner, UnityEditor.Android.PostProcessor.ProgressHandler progress) (at /home/bokken/build/output/unity/unity/PlatformDependent/AndroidPlayer/Editor/Managed/PostProcessor/Tasks/TasksCommon.cs:54)
+UnityEditor.Android.PostProcessor.Tasks.BuildGradleProject.Execute (UnityEditor.Android.PostProcessor.PostProcessorContext context) (at /home/bokken/build/output/unity/unity/PlatformDependent/AndroidPlayer/Editor/Managed/PostProcessor/Tasks/BuildGradleProject.cs:57)
+UnityEditor.Android.PostProcessor.PostProcessRunner.RunAllTasks (UnityEditor.Android.PostProcessor.PostProcessorContext context) (at /home/bokken/build/output/unity/unity/PlatformDependent/AndroidPlayer/Editor/Managed/PostProcessor/AndroidPostProcessor.cs:112)
+UnityEditor.EditorApplication:Internal_CallDelayFunctions()
+
+[Warning] The AnimationClip 'defaultMaterial.001|defaultMaterial.001Action.001' used by the Animation component 'Cheese_Bread' must be marked as Legacy.
+Stack Trace:
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
+
+[Error] Build completed with a result of 'Failed' in 907 seconds (906637 ms)
+3 errors
+Stack Trace:
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
+
+[Exception] IOException: Sharing violation on path D:\AR_Menu\BuildConsoleLog.txt
+Stack Trace:
+System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) (at <152439c387994a8da523328132967f8d>:0)
+System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.IO.FileOptions options) (at <152439c387994a8da523328132967f8d>:0)
+(wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare,int,System.IO.FileOptions)
+System.IO.StreamWriter..ctor (System.String path, System.Boolean append, System.Text.Encoding encoding, System.Int32 bufferSize) (at <152439c387994a8da523328132967f8d>:0)
+System.IO.StreamWriter..ctor (System.String path, System.Boolean append) (at <152439c387994a8da523328132967f8d>:0)
+(wrapper remoting-invoke-with-check) System.IO.StreamWriter..ctor(string,bool)
+BuildLogger.OnPreprocessBuild (UnityEditor.Build.Reporting.BuildReport report) (at Assets/Editor/BuildLogger.cs:17)
+UnityEditor.Build.BuildPipelineInterfaces+<>c__DisplayClass17_0.<OnBuildPreProcess>b__1 (UnityEditor.Build.IPreprocessBuildWithReport bpp) (at <f452aebcfc6a4120a1f2db5e6a15ab5a>:0)
+UnityEditor.Build.BuildPipelineInterfaces.InvokeCallbackInterfacesPair[T1,T2] (System.Collections.Generic.List`1[T] oneInterfaces, System.Action`1[T] invocationOne, System.Collections.Generic.List`1[T] twoInterfaces, System.Action`1[T] invocationTwo, System.Boolean exitOnFailure) (at <f452aebcfc6a4120a1f2db5e6a15ab5a>:0)
+UnityEditor.EditorApplication:Internal_CallDelayFunctions()
+
+[Warning] The following asset(s) located in immutable packages were unexpectedly altered. Making changes to immutable packages isn't recommended because the changes can be lost without any warning during Package Manager operations.
+  Packages/com.unity.xr.arcore/Tests/Editor/Assets/TestReferenceImageLibrary.asset
+
+Stack Trace:
+
+[Warning] The following asset(s) located in immutable packages were unexpectedly altered. Making changes to immutable packages isn't recommended because the changes can be lost without any warning during Package Manager operations.
+  Packages/com.unity.xr.arcore/Tests/Editor/Assets/TestReferenceImageLibrary.asset
+
+Stack Trace:
+
+[Warning] Compressed texture Icon-36 is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+Stack Trace:
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
+
+[Warning] Compressed texture Icon-48 is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+Stack Trace:
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
+
+[Warning] Compressed texture Icon-36 is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+Stack Trace:
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
+
+[Warning] Compressed texture Icon-48 is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+Stack Trace:
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
+
+[Warning] Compressed texture BackGround_x108 is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+Stack Trace:
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
+
+[Warning] Compressed texture ForeGround_x108 is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+Stack Trace:
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
+
+[Warning] Compressed texture BackGround_x216 is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+Stack Trace:
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
+
+[Warning] Compressed texture ForeGround_x216 is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+Stack Trace:
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
+
+[Warning] Compressed texture BackGround_x324 is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+Stack Trace:
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
+
+[Warning] Compressed texture ForeGround_x324 is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+Stack Trace:
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
+
+[Warning] Compressed texture ForeGround_x432 is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+Stack Trace:
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
+
+[Log]  Build finished.
