@@ -42,7 +42,7 @@ EditorBuildSettings:
     path: Assets/Scenes/OrderStatus.unity
     guid: b0ae99b21f47b3045b457ac6c5b8a73c
   - enabled: 1
-    path: Assets/Scenes/YourOrder 1.unity
+    path: Assets/Scenes/YourOrder1.unity
     guid: e7f3bb396eaadda40ac279851c1e0eb0
   - enabled: 1
     path: Assets/Scenes/Payment Details.unity
@@ -72,7 +72,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: 168adeb4f74f7104e80629b79a7d9eb1
   - enabled: 0
-    path: Assets/Scenes/YourOrder 2.unity
+    path: Assets/Scenes/YourOrder2.unity
     guid: 6faa0b426d056354cb337b8b2d8de4b4
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: d8198594ad927fa4fbeb479b613ce64d,
