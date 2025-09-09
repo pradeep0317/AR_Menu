@@ -165,7 +165,7 @@ MonoBehaviour:
   m_Script: {fileID: 2020821747, guid: 8a9a760f95896c34689febc965510927, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  AnchorStage: {fileID: 0}
+  AnchorStage: {fileID: 1462688111}
   DuplicateStage: 1
   OnContentPlaced:
     m_PersistentCalls:
@@ -365,6 +365,21 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: fdcd530dfefb8f44e8b447d49d4db4a3,
         type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fdcd530dfefb8f44e8b447d49d4db4a3,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fdcd530dfefb8f44e8b447d49d4db4a3,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fdcd530dfefb8f44e8b447d49d4db4a3,
+        type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
@@ -412,6 +427,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fdcd530dfefb8f44e8b447d49d4db4a3,
+        type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: -5935814176622109163, guid: fdcd530dfefb8f44e8b447d49d4db4a3,
         type: 3}

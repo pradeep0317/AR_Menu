@@ -6,6 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
+    path: Assets/Scenes/AR Drink.unity
+    guid: e120de1c3121aff4d9e1dc843f21587b
+  - enabled: 0
+    path: Assets/Scenes/AR.unity
+    guid: ce3bbd3cb192e1d40a997b9958142b7e
+  - enabled: 1
+    path: Assets/Scenes/AR Burger.unity
+    guid: afe6445d9bb37184da4234a90cb131e2
+  - enabled: 0
+    path: Assets/Scenes/AR Samplw.unity
+    guid: dc443a7ebb808ae4f9270359d7d9d40e
+  - enabled: 0
     path: Assets/Scenes/Checkout.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 0
@@ -33,6 +45,9 @@ EditorBuildSettings:
     path: Assets/Scenes/OrderPlaced.unity
     guid: 0a2ab9ee93973ce469da6745f5d87c01
   - enabled: 0
+    path: Assets/Scenes/Orders.unity
+    guid: 967617b4fce5e334eaeb49bb4ee03b71
+  - enabled: 0
     path: Assets/Scenes/OrderStatus.unity
     guid: b0ae99b21f47b3045b457ac6c5b8a73c
   - enabled: 0
@@ -50,9 +65,6 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Table Booking.unity
     guid: 377b6841052ffef419cdd0a4290a34a7
-  - enabled: 1
-    path: Assets/Scenes/AR Burger.unity
-    guid: afe6445d9bb37184da4234a90cb131e2
   - enabled: 0
     path: Assets/Scenes/UPI.unity
     guid: a8d089cfa45db064eb3bd2f690b3343a
@@ -62,9 +74,6 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/YourOrder 2.unity
     guid: 6faa0b426d056354cb337b8b2d8de4b4
-  - enabled: 0
-    path: Assets/Scenes/AR.unity
-    guid: ce3bbd3cb192e1d40a997b9958142b7e
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: d8198594ad927fa4fbeb479b613ce64d,
       type: 2}

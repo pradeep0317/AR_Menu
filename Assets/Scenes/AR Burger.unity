@@ -292,7 +292,7 @@ MonoBehaviour:
   m_Script: {fileID: 2020821747, guid: 8a9a760f95896c34689febc965510927, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  AnchorStage: {fileID: 0}
+  AnchorStage: {fileID: 1837901283}
   DuplicateStage: 1
   OnContentPlaced:
     m_PersistentCalls:
@@ -610,13 +610,28 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2240787939398077104, guid: 049e20e4cd0f4844b850535cabc45f7d,
         type: 3}
+      propertyPath: m_LocalScale.x
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2240787939398077104, guid: 049e20e4cd0f4844b850535cabc45f7d,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2240787939398077104, guid: 049e20e4cd0f4844b850535cabc45f7d,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2240787939398077104, guid: 049e20e4cd0f4844b850535cabc45f7d,
+        type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2240787939398077104, guid: 049e20e4cd0f4844b850535cabc45f7d,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.125
+      value: -0.628
       objectReference: {fileID: 0}
     - target: {fileID: 2240787939398077104, guid: 049e20e4cd0f4844b850535cabc45f7d,
         type: 3}
@@ -657,6 +672,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2240787939398077104, guid: 049e20e4cd0f4844b850535cabc45f7d,
+        type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2634857532958573264, guid: 049e20e4cd0f4844b850535cabc45f7d,
         type: 3}
