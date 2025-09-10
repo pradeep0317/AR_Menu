@@ -1,9 +1,45 @@
 [Log]  Build started...
-[Log] Saving build logs to: D:/AR_Menu/Assets\../BuildConsoleLog.txt
+[Log] Saving build logs to: D:/Unity Projects/Tech Jose/ARMenu/Assets\../BuildConsoleLog.txt
 [Warning] The following asset(s) located in immutable packages were unexpectedly altered. Making changes to immutable packages isn't recommended because the changes can be lost without any warning during Package Manager operations.
   Packages/com.unity.xr.arcore/Tests/Editor/Assets/TestReferenceImageLibrary.asset
 
 Stack Trace:
+
+[Warning] The following asset(s) located in immutable packages were unexpectedly altered. Making changes to immutable packages isn't recommended because the changes can be lost without any warning during Package Manager operations.
+  Packages/com.unity.xr.arcore/Tests/Editor/Assets/TestReferenceImageLibrary.asset
+
+Stack Trace:
+
+[Warning] The AnimationClip 'defaultMaterial.001|defaultMaterial.001Action.001' used by the Animation component 'Cheese_Bread' must be marked as Legacy.
+Stack Trace:
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
+
+[Warning] The character with Unicode value \u20B9 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP) (1)].
+Stack Trace:
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+TMPro.TextMeshProUGUI:SetArraySizes (TMPro.TMP_Text/TextProcessingElement[]) (at ./Library/PackageCache/com.unity.ugui@58f0e62c6dfa/Runtime/TMP/TextMeshProUGUI.cs:2009)
+TMPro.TMP_Text:ParseInputText () (at ./Library/PackageCache/com.unity.ugui@58f0e62c6dfa/Runtime/TMP/TMP_Text.cs:2017)
+TMPro.TextMeshProUGUI:OnPreRenderCanvas () (at ./Library/PackageCache/com.unity.ugui@58f0e62c6dfa/Runtime/TMP/TextMeshProUGUI.cs:2475)
+TMPro.TextMeshProUGUI:Rebuild (UnityEngine.UI.CanvasUpdate) (at ./Library/PackageCache/com.unity.ugui@58f0e62c6dfa/Runtime/TMP/TextMeshProUGUI.cs:227)
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
+
+[Warning] The character with Unicode value \u20B9 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP) (1)].
+Stack Trace:
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+TMPro.TextMeshProUGUI:SetArraySizes (TMPro.TMP_Text/TextProcessingElement[]) (at ./Library/PackageCache/com.unity.ugui@58f0e62c6dfa/Runtime/TMP/TextMeshProUGUI.cs:2009)
+TMPro.TMP_Text:ParseInputText () (at ./Library/PackageCache/com.unity.ugui@58f0e62c6dfa/Runtime/TMP/TMP_Text.cs:2017)
+TMPro.TextMeshProUGUI:OnPreRenderCanvas () (at ./Library/PackageCache/com.unity.ugui@58f0e62c6dfa/Runtime/TMP/TextMeshProUGUI.cs:2475)
+TMPro.TextMeshProUGUI:Rebuild (UnityEngine.UI.CanvasUpdate) (at ./Library/PackageCache/com.unity.ugui@58f0e62c6dfa/Runtime/TMP/TextMeshProUGUI.cs:227)
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
+
+[Warning] The character with Unicode value \u20B9 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP) (1)].
+Stack Trace:
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+TMPro.TextMeshProUGUI:SetArraySizes (TMPro.TMP_Text/TextProcessingElement[]) (at ./Library/PackageCache/com.unity.ugui@58f0e62c6dfa/Runtime/TMP/TextMeshProUGUI.cs:2009)
+TMPro.TMP_Text:ParseInputText () (at ./Library/PackageCache/com.unity.ugui@58f0e62c6dfa/Runtime/TMP/TMP_Text.cs:2017)
+TMPro.TextMeshProUGUI:OnPreRenderCanvas () (at ./Library/PackageCache/com.unity.ugui@58f0e62c6dfa/Runtime/TMP/TextMeshProUGUI.cs:2475)
+TMPro.TextMeshProUGUI:Rebuild (UnityEngine.UI.CanvasUpdate) (at ./Library/PackageCache/com.unity.ugui@58f0e62c6dfa/Runtime/TMP/TextMeshProUGUI.cs:227)
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
 
 [Warning] Compressed texture Icon-36 is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
 Stack Trace:
