@@ -359,7 +359,7 @@ MonoBehaviour:
   OnContentPlaced:
     m_PersistentCalls:
       m_Calls: []
-  mDisplayAdvanced: 0
+  mDisplayAdvanced: 1
 --- !u!114 &972583891
 MonoBehaviour:
   m_ObjectHideFlags: 0
