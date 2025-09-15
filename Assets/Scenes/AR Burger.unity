@@ -690,6 +690,11 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.x
       value: -10
       objectReference: {fileID: 0}
+    - target: {fileID: 5682141268411294492, guid: 8e6a69647f100ff478c8c2d0cd208f59,
+        type: 3}
+      propertyPath: m_text
+      value: Panner Tikka
+      objectReference: {fileID: 0}
     - target: {fileID: 6597675116232835709, guid: 8e6a69647f100ff478c8c2d0cd208f59,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
