@@ -178,9 +178,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Date:'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 10d0d5bb9d1bf0a488f0e4f6b0c62200, type: 2}
-  m_sharedMaterial: {fileID: -3268834405007652303, guid: 10d0d5bb9d1bf0a488f0e4f6b0c62200,
-    type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -450,7 +449,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.6, g: 0.2509804, b: 0.2509804, a: 0}
+  m_Color: {r: 0.6, g: 0.2509804, b: 0.2509804, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -534,9 +533,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Served Successfully
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 10d0d5bb9d1bf0a488f0e4f6b0c62200, type: 2}
-  m_sharedMaterial: {fileID: -3268834405007652303, guid: 10d0d5bb9d1bf0a488f0e4f6b0c62200,
-    type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -671,9 +669,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: --------
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 10d0d5bb9d1bf0a488f0e4f6b0c62200, type: 2}
-  m_sharedMaterial: {fileID: -3268834405007652303, guid: 10d0d5bb9d1bf0a488f0e4f6b0c62200,
-    type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1032,9 +1029,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Order Number: '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 10d0d5bb9d1bf0a488f0e4f6b0c62200, type: 2}
-  m_sharedMaterial: {fileID: -3268834405007652303, guid: 10d0d5bb9d1bf0a488f0e4f6b0c62200,
-    type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1463,9 +1459,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: --------
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 10d0d5bb9d1bf0a488f0e4f6b0c62200, type: 2}
-  m_sharedMaterial: {fileID: -3268834405007652303, guid: 10d0d5bb9d1bf0a488f0e4f6b0c62200,
-    type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1644,9 +1639,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Amount
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 10d0d5bb9d1bf0a488f0e4f6b0c62200, type: 2}
-  m_sharedMaterial: {fileID: -3268834405007652303, guid: 10d0d5bb9d1bf0a488f0e4f6b0c62200,
-    type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1781,9 +1775,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Rs. 530
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 10d0d5bb9d1bf0a488f0e4f6b0c62200, type: 2}
-  m_sharedMaterial: {fileID: -3268834405007652303, guid: 10d0d5bb9d1bf0a488f0e4f6b0c62200,
-    type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
