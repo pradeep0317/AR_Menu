@@ -178,9 +178,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Payment Method
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 10d0d5bb9d1bf0a488f0e4f6b0c62200, type: 2}
-  m_sharedMaterial: {fileID: -3268834405007652303, guid: 10d0d5bb9d1bf0a488f0e4f6b0c62200,
-    type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -315,9 +314,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 215.00
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 10d0d5bb9d1bf0a488f0e4f6b0c62200, type: 2}
-  m_sharedMaterial: {fileID: -3268834405007652303, guid: 10d0d5bb9d1bf0a488f0e4f6b0c62200,
-    type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1915,9 +1913,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Checkout
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 10d0d5bb9d1bf0a488f0e4f6b0c62200, type: 2}
-  m_sharedMaterial: {fileID: -3268834405007652303, guid: 10d0d5bb9d1bf0a488f0e4f6b0c62200,
-    type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2295,9 +2292,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Total Cost
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 10d0d5bb9d1bf0a488f0e4f6b0c62200, type: 2}
-  m_sharedMaterial: {fileID: -3268834405007652303, guid: 10d0d5bb9d1bf0a488f0e4f6b0c62200,
-    type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2902,7 +2898,20 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1907192955}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 279538278276459827, guid: b43ccf745016e144896d93ad804c8305,
+          type: 3}
+        m_TargetAssemblyTypeName: SceneSwitcher, Assembly-CSharp
+        m_MethodName: LoadScene
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: ServedSuccessfully
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1907192955
 MonoBehaviour:
   m_ObjectHideFlags: 0

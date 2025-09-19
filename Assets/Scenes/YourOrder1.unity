@@ -1369,6 +1369,52 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: -96.03998
       objectReference: {fileID: 0}
+    - target: {fileID: 953761322345874014, guid: 913f2bb27c7b5684eb7bf85bb215a579,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 953761322345874014, guid: 913f2bb27c7b5684eb7bf85bb215a579,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 953761322345874014, guid: 913f2bb27c7b5684eb7bf85bb215a579,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 279538278276459827, guid: b43ccf745016e144896d93ad804c8305,
+        type: 3}
+    - target: {fileID: 953761322345874014, guid: 913f2bb27c7b5684eb7bf85bb215a579,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 953761322345874014, guid: 913f2bb27c7b5684eb7bf85bb215a579,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: LoadScene
+      objectReference: {fileID: 0}
+    - target: {fileID: 953761322345874014, guid: 913f2bb27c7b5684eb7bf85bb215a579,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: SceneSwitcher, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 953761322345874014, guid: 913f2bb27c7b5684eb7bf85bb215a579,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: OrderStatus
+      objectReference: {fileID: 0}
+    - target: {fileID: 953761322345874014, guid: 913f2bb27c7b5684eb7bf85bb215a579,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 1569351480450222430, guid: 913f2bb27c7b5684eb7bf85bb215a579,
+        type: 3}
+      propertyPath: m_Transition
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1569351480450222430, guid: 913f2bb27c7b5684eb7bf85bb215a579,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
