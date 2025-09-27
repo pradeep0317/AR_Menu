@@ -14,3 +14,79 @@ Stack Trace:
 UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
 
 [Log] Build completed with a result of 'Cancelled' in 41 seconds (41360 ms)
+[Exception] IOException: Sharing violation on path D:\AR_Menu\BuildConsoleLog.txt
+Stack Trace:
+System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) (at <152439c387994a8da523328132967f8d>:0)
+System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.IO.FileOptions options) (at <152439c387994a8da523328132967f8d>:0)
+(wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare,int,System.IO.FileOptions)
+System.IO.StreamWriter..ctor (System.String path, System.Boolean append, System.Text.Encoding encoding, System.Int32 bufferSize) (at <152439c387994a8da523328132967f8d>:0)
+System.IO.StreamWriter..ctor (System.String path, System.Boolean append) (at <152439c387994a8da523328132967f8d>:0)
+(wrapper remoting-invoke-with-check) System.IO.StreamWriter..ctor(string,bool)
+BuildLogger.OnPreprocessBuild (UnityEditor.Build.Reporting.BuildReport report) (at Assets/Editor/BuildLogger.cs:17)
+UnityEditor.Build.BuildPipelineInterfaces+<>c__DisplayClass17_0.<OnBuildPreProcess>b__1 (UnityEditor.Build.IPreprocessBuildWithReport bpp) (at <f452aebcfc6a4120a1f2db5e6a15ab5a>:0)
+UnityEditor.Build.BuildPipelineInterfaces.InvokeCallbackInterfacesPair[T1,T2] (System.Collections.Generic.List`1[T] oneInterfaces, System.Action`1[T] invocationOne, System.Collections.Generic.List`1[T] twoInterfaces, System.Action`1[T] invocationTwo, System.Boolean exitOnFailure) (at <f452aebcfc6a4120a1f2db5e6a15ab5a>:0)
+UnityEditor.EditorApplication:Internal_CallDelayFunctions()
+
+[Warning] The following asset(s) located in immutable packages were unexpectedly altered. Making changes to immutable packages isn't recommended because the changes can be lost without any warning during Package Manager operations.
+  Packages/com.unity.xr.arcore/Tests/Editor/Assets/TestReferenceImageLibrary.asset
+
+Stack Trace:
+
+[Warning] The following asset(s) located in immutable packages were unexpectedly altered. Making changes to immutable packages isn't recommended because the changes can be lost without any warning during Package Manager operations.
+  Packages/com.unity.xr.arcore/Tests/Editor/Assets/TestReferenceImageLibrary.asset
+
+Stack Trace:
+
+[Warning] The AnimationClip 'defaultMaterial.001|defaultMaterial.001Action.001' used by the Animation component 'Cheese_Bread' must be marked as Legacy.
+Stack Trace:
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
+
+[Warning] Script attached to 'DOTweenSettings' in asset 'Assets/Resources/DOTweenSettings.asset' is missing or no valid script is attached.
+Stack Trace:
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
+
+[Warning] Compressed texture Icon-36 is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+Stack Trace:
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
+
+[Warning] Compressed texture Icon-48 is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+Stack Trace:
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
+
+[Warning] Compressed texture Icon-36 is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+Stack Trace:
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
+
+[Warning] Compressed texture Icon-48 is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+Stack Trace:
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
+
+[Warning] Compressed texture BackGround_x108 is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+Stack Trace:
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
+
+[Warning] Compressed texture ForeGround_x108 is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+Stack Trace:
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
+
+[Warning] Compressed texture BackGround_x216 is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+Stack Trace:
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
+
+[Warning] Compressed texture ForeGround_x216 is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+Stack Trace:
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
+
+[Warning] Compressed texture BackGround_x324 is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+Stack Trace:
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
+
+[Warning] Compressed texture ForeGround_x324 is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+Stack Trace:
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
+
+[Warning] Compressed texture ForeGround_x432 is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+Stack Trace:
+UnityEditor.EditorApplication:Internal_CallDelayFunctions ()
+
+[Log]  Build finished.
